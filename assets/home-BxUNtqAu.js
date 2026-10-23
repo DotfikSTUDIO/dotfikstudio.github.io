@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";/* empty css             */import{s,r as i}from"./browser-support-D2B1hLcg.js";const t=document.getElementById("support-note"),e=s(i());t&&e.kind!=="supported"&&(t.textContent=e.message,t.classList.add("visible"));

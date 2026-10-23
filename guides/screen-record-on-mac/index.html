@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Security-Policy" content="default-src &#39;self&#39;; script-src &#39;self&#39; &#39;wasm-unsafe-eval&#39;; style-src &#39;self&#39;; img-src &#39;self&#39; blob: data:; media-src &#39;self&#39; blob:; connect-src &#39;self&#39; blob: data:; font-src &#39;self&#39;; worker-src &#39;self&#39; blob:; object-src &#39;none&#39;; base-uri &#39;none&#39;; form-action &#39;none&#39;">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>How to Screen Record on a Mac With Internal Audio | Dotfik Studio</title>
+    <meta name="description" content="Screen record on a Mac with Shift-Command-5, then capture the Mac's own sound without BlackHole using Chrome: steps, permissions and fixes for no sound." />
+    <meta name="theme-color" content="#0c0b1d" />
+    <meta name="referrer" content="no-referrer" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+      <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="canonical" href="https://dotfikstudio.github.io/guides/screen-record-on-mac/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Dotfik Studio" />
+    <meta property="og:title" content="How to Screen Record on a Mac With Internal Audio | Dotfik Studio" />
+    <meta property="og:description" content="Screen record on a Mac with Shift-Command-5, then capture the Mac's own sound without BlackHole using Chrome: steps, permissions and fixes for no sound." />
+    <meta property="og:url" content="https://dotfikstudio.github.io/guides/screen-record-on-mac/" />
+    <meta property="og:image" content="https://dotfikstudio.github.io/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Dotfik Studio: Free screen recorder with camera, in your browser" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="article:modified_time" content="2026-10-22" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="How to Screen Record on a Mac With Internal Audio | Dotfik Studio" />
+    <meta name="twitter:description" content="Screen record on a Mac with Shift-Command-5, then capture the Mac's own sound without BlackHole using Chrome: steps, permissions and fixes for no sound." />
+    <meta name="twitter:image" content="https://dotfikstudio.github.io/og-image.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Dotfik Studio","item":"https://dotfikstudio.github.io/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://dotfikstudio.github.io/guides/"},{"@type":"ListItem","position":3,"name":"How to screen record on a Mac with internal audio","item":"https://dotfikstudio.github.io/guides/screen-record-on-mac/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"TechArticle","headline":"How to screen record on a Mac with internal audio","description":"Screen record on a Mac with Shift-Command-5, then capture the Mac's own sound without BlackHole using Chrome: steps, permissions and fixes for no sound.","url":"https://dotfikstudio.github.io/guides/screen-record-on-mac/","mainEntityOfPage":"https://dotfikstudio.github.io/guides/screen-record-on-mac/","datePublished":"2026-10-22","dateModified":"2026-10-22","image":"https://dotfikstudio.github.io/og-image.png","author":{"@id":"https://dotfikstudio.github.io/#organization"},"publisher":{"@type":"Organization","@id":"https://dotfikstudio.github.io/#organization","name":"Dotfik","url":"https://dotfikstudio.github.io/","logo":"https://dotfikstudio.github.io/icon-512.png"},"about":{"@id":"https://dotfikstudio.github.io/#app"}}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Does QuickTime record internal audio?","acceptedAnswer":{"@type":"Answer","text":"Not according to Apple's guides. File > New Screen Recording opens the Screenshot tools, whose only sound option is a microphone."}},{"@type":"Question","name":"Where do screen recordings go on a Mac?","acceptedAnswer":{"@type":"Answer","text":"Wherever Save to points in Screenshot's Options. Each one is a .mov file named Screen Recording with the date and time."}},{"@type":"Question","name":"How do I stop a screen recording on a Mac?","acceptedAnswer":{"@type":"Answer","text":"Click the Stop Recording button in the menu bar at the top of the screen."}},{"@type":"Question","name":"Can I record my screen and face at the same time on a Mac?","acceptedAnswer":{"@type":"Answer","text":"Apple's Screenshot tool has no camera option. Dotfik Studio records your screen, camera and microphone together in Chrome: see how to record your screen and face."}},{"@type":"Question","name":"How do I record only part of the screen on a Mac?","acceptedAnswer":{"@type":"Answer","text":"Press Shift + Command + 5, choose Record a portion of the screen, then drag the frame or its edges around the area you want before you click Record."}}]}</script>
+    <link rel="stylesheet" crossorigin href="/assets/site-AMR92_37.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href="/" aria-label="Dotfik Studio home">
+          <img src="/favicon.svg" alt="" width="30" height="30" />
+          <span>Dotfik Studio</span>
+        </a>
+        <nav class="site-nav" aria-label="Main">
+          <a class="hide-small" href="/guides/">Guides</a>
+          <a class="hide-small" href="/faq/">FAQ</a>
+          <a class="hide-small" href="/extension/">Chrome extension</a>
+          <a class="hide-small" href="/privacy/">Privacy</a>
+          <a class="button primary" href="/studio/">Open the studio</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="container">
+      <ol class="breadcrumbs"><li><a href="/">Dotfik Studio</a></li><li><a href="/guides/">Guides</a></li><li>Mac</li></ol>
+      <article class="prose">
+        <h1>How to screen record on a Mac with internal audio</h1>
+        <p class="article-meta">Updated 22 October 2026 · 8-minute read</p>
+        <p>
+          Every Mac can record its screen with one keyboard shortcut. Sound is the catch: Apple's tools record your
+          microphone, not the Mac's own audio. This guide covers the built-in way, why that sound goes missing, and how to
+          record it without installing an audio driver.
+        </p>
+
+        <div class="quick-answer">
+          <h2>The short answer</h2>
+          <p>
+            Press <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>5</kbd>, choose the entire screen, a window or a portion,
+            pick your microphone under <strong>Options</strong> and click <strong>Record</strong>. Stop with the
+            <strong>Stop Recording</strong> button in the menu bar. Apple's tool records your voice, not the Mac's own
+            sound. For that, use Dotfik Studio in Chrome 141 or newer on macOS 14.2 or newer, with no audio driver to install.
+          </p>
+        </div>
+
+        <h2>How do you screen record on a Mac?</h2>
+        <p>
+          The Mac's built-in Screenshot tool does it. These steps follow
+          <a href="https://support.apple.com/guide/mac-help/take-a-screenshot-or-screen-recording-mh26782/mac" rel="noopener">Apple's guide</a>
+          (checked 22 October 2026):
+        </p>
+        <ol>
+          <li>Press <kbd>Shift</kbd> + <kbd>Command</kbd> + <kbd>5</kbd>.</li>
+          <li>
+            In the toolbar, choose <strong>Record the entire screen</strong>, <strong>Record a window</strong> or
+            <strong>Record a portion of the screen</strong>. For a portion, drag the frame or its edges.
+          </li>
+          <li>
+            Click <strong>Options</strong> and pick your <strong>Microphone</strong> so it has a tick;
+            <strong>None</strong> turns sound off. Here you can also choose where to save, set a timer and show the mouse
+            pointer or clicks.
+          </li>
+          <li>Click <strong>Record</strong>. For a window, move the pointer over it and click.</li>
+          <li>To stop, click the <strong>Stop Recording</strong> button in the menu bar.</li>
+        </ol>
+        <p>
+          The video is saved as a <code>.mov</code> file whose name starts with "Screen Recording", followed by the date
+          and time. With <strong>Show Floating Thumbnail</strong> on, click the thumbnail in the corner to trim it.
+        </p>
+
+        <h2>Can you use QuickTime Player instead?</h2>
+        <p>
+          Yes, but it leads to the same place. In QuickTime Player, choose <strong>File</strong> &gt; <strong>New Screen
+          Recording</strong> and the same Screenshot tools open, with the same <strong>Options</strong> menu and
+          <strong>Record</strong> button
+          (<a href="https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac" rel="noopener">Apple's QuickTime Player guide</a>,
+          checked 22 October 2026). So it has the same sound limits.
+        </p>
+
+        <h2>Can a Mac screen record internal audio?</h2>
+        <p>
+          Not with Apple's own tools, going by Apple's documentation. The only sound choice in Screenshot's Options is a
+          microphone, and Apple's guide says nothing about recording the sound the Mac itself plays. A video, a game or an
+          alert sound won't be in the recording, apart from whatever your microphone picks up from the speakers.
+        </p>
+        <p>
+          There are two ways round it: a virtual audio driver such as BlackHole, the long-standing workaround, or recording
+          in Chrome, which can now capture the Mac's sound directly.
+        </p>
+
+        <h2>How do you record a Mac's internal audio without BlackHole?</h2>
+        <p>
+          From version 141, Chrome on macOS 14.2 or newer offers a "share system audio" switch when you share a window or
+          the entire screen. Before that, only Chrome on Windows and ChromeOS could record system sound along with the
+          screen (tested by
+          <a href="https://blog.addpipe.com/getdisplaymedia-allows-capturing-the-screen-with-system-sounds-on-chrome-on-macos/" rel="noopener">addpipe</a>,
+          published 19 February 2026, checked 22 October 2026). The macOS version matters because, as the same article
+          notes, Apple only let third-party apps capture system audio from macOS 14.2. Dotfik Studio runs in Chrome, so it can
+          use that switch:
+        </p>
+        <ol>
+          <li>
+            Check your versions. In Chrome, open the three-dot <strong>More</strong> menu &gt; <strong>Help</strong> &gt;
+            <strong>About Google Chrome</strong>, and select <strong>Relaunch</strong> if an update is waiting
+            (<a href="https://support.google.com/chrome/answer/95414" rel="noopener">Chrome Help</a>). On the Mac, choose
+            <strong>Apple menu</strong> &gt; <strong>About This Mac</strong>; macOS Sonoma is version 14
+            (<a href="https://support.apple.com/en-us/109033" rel="noopener">Apple Support</a>). Both checked 22 October 2026.
+          </li>
+          <li>
+            Open the <a href="/studio/">studio</a> in Chrome, choose your microphone and, if you like, your camera, and turn
+            on <strong>Record computer sound</strong>.
+          </li>
+          <li>Choose a window or your entire screen, and turn on the share system audio switch in Chrome's picker.</li>
+          <li>Press <strong>Start recording</strong>. When you stop, edit the video and press <strong>Download MP4</strong>.</li>
+        </ol>
+        <p>
+          On older versions, share a Chrome tab instead and tick <strong>Also share tab audio</strong>. You get that tab's
+          sound, which works on every system and is enough for a video or web app playing in the tab.
+        </p>
+
+        <h2>What about BlackHole?</h2>
+        <p>
+          BlackHole, from Existential Audio, is "a modern macOS virtual audio loopback driver": it passes sound from one
+          app to another. It's open source under the GPL-3.0 licence
+          (<a href="https://github.com/ExistentialAudio/BlackHole" rel="noopener">BlackHole on GitHub</a>), and its
+          <a href="https://existential.audio/blackhole/" rel="noopener">download page</a> asks for an optional donation
+          (both checked 22 October 2026).
+        </p>
+        <p>
+          The usual setup: install the driver, then in Audio MIDI Setup create a Multi-Output Device so you still hear the
+          sound while it goes to BlackHole
+          (<a href="https://support.apple.com/guide/audio-midi-setup/play-audio-through-multiple-devices-at-once-ams7c093f372/mac" rel="noopener">Apple's Audio MIDI Setup guide</a>),
+          make it your sound output, and pick BlackHole as the microphone in Screenshot's Options. It works with any app,
+          not just a browser. The costs are setup and a few quirks: BlackHole's notes say "macOS does not support changing
+          the volume of a Multi-Output device", and recording your voice too means combining your microphone and
+          BlackHole into an aggregate device
+          (<a href="https://support.apple.com/en-us/102171" rel="noopener">Apple Support</a>; both checked 22 October 2026).
+        </p>
+
+        <h2>How do you let Chrome record the screen on a Mac?</h2>
+        <p>
+          macOS asks before an app can record your screen. If you chose <strong>Don't Allow</strong>, go to
+          <strong>Apple menu</strong> &gt; <strong>System Settings</strong>, click <strong>Privacy &amp; Security</strong>,
+          then <strong>Screen &amp; System Audio Recording</strong>, and turn on Google Chrome
+          (<a href="https://support.apple.com/guide/mac-help/control-access-screen-system-audio-recording-mchld6aa7d23/mac" rel="noopener">Apple's guide</a>).
+          The microphone has its own list under <strong>Privacy &amp; Security</strong> &gt; <strong>Microphone</strong>
+          (<a href="https://support.apple.com/guide/mac-help/control-access-to-the-microphone-on-mac-mchla1b1e1fe/mac" rel="noopener">Apple's guide</a>;
+          both checked 22 October 2026). After changing either, quit Chrome and open it again.
+        </p>
+
+        <h2>Why is there no sound on my Mac screen recording?</h2>
+        <ol>
+          <li><strong>No microphone was chosen.</strong> In Screenshot's <strong>Options</strong>, pick your microphone so it has a tick.</li>
+          <li><strong>You expected the Mac's own sound.</strong> Apple's tools record the microphone only. Use Chrome as described above, or BlackHole.</li>
+          <li>
+            <strong>The audio switch in Chrome's picker was off.</strong> It has to be on when you share. Dotfik Studio notices
+            and asks you to choose what to share again and tick it.
+          </li>
+          <li>
+            <strong>Chrome or macOS is too old.</strong> System sound from a window or the screen needs Chrome 141 or newer
+            on macOS 14.2 or newer. Update, or share a tab instead.
+          </li>
+          <li>
+            <strong>Chrome isn't allowed to record.</strong> Check <strong>Screen &amp; System Audio Recording</strong> and
+            <strong>Microphone</strong> in <strong>Privacy &amp; Security</strong>, then quit and reopen Chrome.
+          </li>
+        </ol>
+
+        <h2>How do you edit a Mac screen recording or make it an MP4?</h2>
+        <p>
+          For a quick trim, Apple's tools are enough: click the floating thumbnail after recording, or open the file in
+          QuickTime Player, choose <strong>Edit</strong> &gt; <strong>Trim</strong> and drag the yellow handles
+          (<a href="https://support.apple.com/guide/quicktime-player/trim-a-movie-or-clip-qtpf2115f6fd/mac" rel="noopener">Apple's trimming guide</a>).
+          QuickTime saves .mov files, though: "QuickTime Player doesn't export movies as MP4 videos"
+          (<a href="https://support.apple.com/guide/quicktime-player/export-movies-qtp20e395859/mac" rel="noopener">Apple's export guide</a>;
+          both checked 22 October 2026).
+        </p>
+        <p>
+          For an MP4, or more editing, open the .mov in Dotfik Studio: choose <strong>Edit a video file instead</strong> on the
+          start screen, cut out mistakes, add zooms by hand, blur private details or type captions, then press
+          <strong>Download MP4</strong>. The <a href="/guides/convert-webm-to-mp4/">conversion guide</a> walks through it.
+        </p>
+
+        <h2>Which way should you record a Mac's screen?</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th scope="col">Way</th><th scope="col">Your voice</th><th scope="col">The Mac's own sound</th><th scope="col">Your camera</th><th scope="col">Editing</th></tr>
+            </thead>
+            <tbody>
+              <tr><th scope="row">Screenshot tool or QuickTime</th><td>Yes</td><td>Not in Apple's options</td><td>No camera option</td><td>Trim (thumbnail or QuickTime)</td></tr>
+              <tr><th scope="row">Screenshot tool with BlackHole</th><td>Needs an aggregate device</td><td>Yes, after setup</td><td>No camera option</td><td>Trim (thumbnail or QuickTime)</td></tr>
+              <tr><th scope="row">Dotfik Studio in Chrome</th><td>Yes</td><td>Yes on Chrome 141+ and macOS 14.2+, or a tab's sound</td><td>Yes</td><td>Zoom, captions, cuts, blur</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          In Dotfik Studio, you can add a zoom by hand anywhere in a recording. With the free <a href="/extension/">Chrome
+          extension</a>, zooms, click effects and key badges happen automatically, but only in the Chrome tabs you record,
+          not in desktop apps; <a href="/guides/zoom-in-on-screen-recording/">how to zoom in on a screen recording</a>
+          explains both. Comparing paid Mac apps too? Here's <a href="/alternatives/screen-studio/">how Dotfik Studio compares
+          with Screen Studio</a>.
+        </p>
+
+        <section class="faq" aria-labelledby="faq-title">
+          <h2 id="faq-title">Questions people ask</h2>
+          <details>
+            <summary>Does QuickTime record internal audio?</summary>
+            <p>
+              Not according to Apple's guides. File &gt; New Screen Recording opens the Screenshot tools, whose only sound
+              option is a microphone.
+            </p>
+          </details>
+          <details>
+            <summary>Where do screen recordings go on a Mac?</summary>
+            <p>
+              Wherever Save to points in Screenshot's Options. Each one is a .mov file named Screen Recording with the date
+              and time.
+            </p>
+          </details>
+          <details>
+            <summary>How do I stop a screen recording on a Mac?</summary>
+            <p>Click the Stop Recording button in the menu bar at the top of the screen.</p>
+          </details>
+          <details>
+            <summary>Can I record my screen and face at the same time on a Mac?</summary>
+            <p>
+              Apple's Screenshot tool has no camera option. Dotfik Studio records your screen, camera and microphone together in
+              Chrome: see <a href="/guides/record-screen-and-face/">how to record your screen and face</a>.
+            </p>
+          </details>
+          <details>
+            <summary>How do I record only part of the screen on a Mac?</summary>
+            <p>
+              Press Shift + Command + 5, choose Record a portion of the screen, then drag the frame or its edges around the
+              area you want before you click Record.
+            </p>
+          </details>
+        </section>
+
+        <div class="cta-box">
+          <p>Record your Mac's screen with your voice and its own sound, in Chrome, with no driver to install.</p>
+          <a class="button secondary" href="/studio/">Open the studio</a>
+        </div>
+      </article>
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div class="footer-about">
+          <a class="brand" href="/" aria-label="Dotfik Studio home">
+            <img src="/favicon.svg" alt="" width="26" height="26" />
+            <span>Dotfik Studio</span>
+          </a>
+          <p>Free screen recorder with camera, in your browser. Free, no sign-up, no watermark, and nothing you record leaves your computer.</p>
+          
+        </div>
+        <nav aria-label="Product">
+          <h2>Product</h2>
+          <a href="/studio/">Open the studio</a>
+          <a href="/extension/">Chrome extension</a>
+          <a href="/faq/">Questions and answers</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/about/">About</a>
+        </nav>
+        <nav aria-label="Guides">
+          <h2>Guides</h2>
+          <a href="/guides/record-screen-and-face/">Record your screen and face</a>
+          <a href="/guides/screen-record-on-chromebook/">Screen record on a Chromebook</a>
+          <a href="/guides/screen-record-on-windows/">Screen record on Windows</a>
+          <a href="/guides/screen-record-on-mac/">Screen record on a Mac</a>
+          <a href="/guides/zoom-in-on-screen-recording/">Zoom in on a recording</a>
+          <a href="/guides/screen-recording-to-shorts/">Shorts, Reels and TikTok</a>
+          <a href="/guides/add-captions-to-screen-recording/">Add captions</a>
+          <a href="/guides/">All guides</a>
+        </nav>
+        <nav aria-label="Compare">
+          <h2>Compare</h2>
+          <a href="/alternatives/screen-studio/">Screen Studio alternative</a>
+          <a href="/alternatives/loom/">Loom alternative</a>
+          <a href="/alternatives/screencastify/">Screencastify alternative</a>
+          <a href="/alternatives/">All comparisons</a>
+        </nav>
+      </div>
+      <div class="container footer-base">
+        <span>© 2026 Dotfik · Made for creators who teach</span>
+      </div>
+    </footer>
+  </body>
+</html>

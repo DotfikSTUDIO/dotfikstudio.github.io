@@ -1,0 +1,2296 @@
+# Dotfik Studio
+
+> A free screen recorder and video editor that runs entirely in your browser. Record your screen, camera and voice; get automatic zooms, click effects and captions; download an MP4 for YouTube, Shorts, Reels or TikTok. No sign-up, no watermark, and nothing is uploaded.
+
+Dotfik Studio is a website, not a program to install: it records and edits video inside the browser tab, at https://dotfikstudio.github.io/studio/. It is made by Dotfik and has been online since 19 October 2026.
+
+Key facts:
+
+- Price: free. No account, no sign-up and no watermark.
+- Recording length: no limit is set. Recordings are held in the computer's memory while you edit, so very long takes (an hour or more) need plenty of free memory.
+- Where it works: Google Chrome, Microsoft Edge, Brave and other Chromium browsers, on Windows, macOS, ChromeOS (Chromebooks) and Linux computers. Safari, Firefox and phones are not supported yet.
+- Privacy: recording, editing and exporting all happen on the visitor's own computer. Recordings are never uploaded; the site's security policy stops it from sending data to any other server. A recording is erased from the page after it is downloaded (on by default; it can be kept to make a second version), when the visitor presses Delete, or when the tab closes.
+- What it records: a whole screen, one window or one browser tab, plus webcam, microphone and computer sound.
+- Editing: trim, cut, speed up dull parts, remove long silences automatically, automatic zoom where you click with smooth cursor following (needs the free Chrome extension), zooms added by hand, click ripples, cursor highlight, keystroke badges, blur boxes for private details, callouts, intro and outro cards, a logo, background music that dips under the voice, and voice levelling to YouTube's loudness (−14 LUFS).
+- Captions: made on the computer by the browser's on-device speech recognition (in recent Chrome versions), or typed by hand; burned into the video or saved as an .srt file for YouTube.
+- Export: MP4 video (H.264 with AAC sound) in 16:9 (YouTube), 9:16 (YouTube Shorts, Instagram Reels, TikTok), 1:1, 4:5, 3:4 and 4:3, at 720p, 1080p, 1440p or 4K, at 24, 30 or 60 frames per second.
+- Camera layouts: a round or square bubble anywhere on the video, a split screen with the camera on any side, camera only, or screen only.
+- Chrome extension: optional and free; it tells the studio where the pointer is and where you click inside the tabs being recorded. It works only while a recording runs and has no internet access.
+- Existing videos: a video file recorded elsewhere (for example a Chromebook WebM or a Mac MOV recording) can be opened, edited and downloaded as MP4. Its sound counts as computer sound, so captions must be typed and voice levelling and pause cutting aren't offered for it.
+- Limits: there are no share links or cloud library (you download an MP4 and share it yourself), no team features, and no mobile version. Automatic zoom, click effects and keystroke badges only work inside the Chrome tabs being recorded, because the extension can't see desktop apps; zooms can be added by hand to any recording.
+
+---
+
+Source: https://dotfikstudio.github.io/
+Updated: 2026-10-22
+
+Free screen recorder · works in your browser
+
+## Record your screen and camera. Get a polished video.
+
+Screen, camera and voice in one take, on any computer with Chrome or Edge. Dotfik Studio adds smooth zooms, a studio background and captions, then gives you an MP4 for YouTube, Shorts or Instagram.
+
+Start recording
+
+Get the Chrome extension
+
+No account. No upload. Your recording never leaves your computer.
+
+- Nothing is uploaded
+
+- No account, no tracking
+
+- Erased when you're done
+
+- No watermark, free
+
+### Everything a tutorial needs
+
+Record once, then make it look like you spent hours editing.
+
+#### Smooth zoomsextension
+
+Zooms in where you click and glides along with your pointer. Switch it off, keep it still, or add zooms by hand.
+
+#### You on camera
+
+A round or square bubble anywhere, or a split screen with the camera on any side, at any size.
+
+#### Every shape
+
+16:9 for YouTube, 9:16 for Shorts and Reels, 1:1, 4:5 and 3:4 for Instagram, 4:3 for slides.
+
+#### Studio look
+
+Your recording floats on a gradient, colour or picture, with padding, rounded corners and a soft shadow.
+
+#### Quick edits
+
+Trim the ends, cut the mistakes and speed up the slow parts, right on the timeline.
+
+#### Clicks and shortcutsextension
+
+Click ripples, a pointer highlight and on-screen badges for the shortcuts you press.
+
+#### Hide private details
+
+Blur, pixelate or cover an email, a password or an API key for exactly as long as it's on screen.
+
+#### Titles, captions and your logo
+
+Intro and outro cards, callouts and arrows, captions (typed, or made from your voice right on your computer in Chrome) and your channel logo.
+
+#### Music under your voice
+
+Add a track and it fades in, fades out and gets quieter whenever you speak.
+
+### One recording, every platform
+
+Pick a shape before you download. Your camera layout comes along and adapts to the frame.
+
+16:9 YouTube
+9:16 Shorts, Reels
+1:1 Square
+4:5 Instagram
+3:4 IG grid
+4:3 Classic
+
+### How it works
+
+- #### Record Choose a screen, window or tab, your camera and microphone. A floating bubble shows you while you talk.
+
+- #### Polish Pick a shape and a look, trim and cut, adjust the zooms. Every change shows up instantly.
+
+- #### Download Get an MP4 made right on your computer. The recording is erased from the page as soon as it's saved.
+
+### Works on Windows, Mac, Chromebook and Linux
+
+Anywhere Chrome, Edge or Brave runs on a computer. Nothing to install, and the same studio on every machine, so a school Chromebook and a home laptop work the same way.
+
+Windows 10 and 11 Record in Edge or Chrome, with your computer's sound and your camera.
+Mac Record the Mac's own sound as well as your voice, without extra drivers.
+Chromebook Record with sound and your face, then edit and download an MP4.
+Screen and face, anywhere Your camera in a bubble or a split screen, moved or resized after recording.
+
+### Add the Chrome extension for auto-zoom
+
+A web page only sees pixels. The free extension tells the studio where you point and click inside the tabs you record, so zooms, click effects and shortcut badges happen by themselves. It has no internet access of its own.
+
+Get the extension
+Read the privacy promise
+
+### Questions people ask
+
+The short answers. There are more on the questions and answers page.
+
+Is it really free, with no watermark?
+
+Yes. There is no paid plan, no watermark and no sign-up. Your computer does the work, so each video costs nothing to make.
+
+Is there a time limit?
+
+No limit is set. The recording is kept in your computer's memory, so very long takes (an hour or more) need plenty of free memory.
+
+Is my recording uploaded?
+
+No. Recording, editing and the MP4 export all happen in your browser, and the recording is erased from the page when you're done.
+
+Can it record the sound from my computer?
+
+Yes. Turn on Record computer sound and tick the audio switch in your browser's sharing window. On a Mac this needs Chrome 141 or newer on macOS 14.2 or newer.
+
+Do I need the Chrome extension?
+
+No. It's optional: it adds automatic zooms, click effects and shortcut badges for the Chrome tabs you record. You can add zooms by hand without it.
+
+Does it work on Safari, Firefox or a phone?
+
+Not yet. It needs Chrome, Edge, Brave or another Chromium browser on a Windows, Mac, Chromebook or Linux computer.
+
+---
+
+Source: https://dotfikstudio.github.io/about/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- About
+
+## About Dotfik Studio
+
+A free screen recorder and video editor that runs entirely in your browser. Record your screen, camera and voice; get automatic zooms, click effects and captions; download an MP4 for YouTube, Shorts, Reels or TikTok. No sign-up, no watermark, and nothing is uploaded.
+
+### Why it exists
+
+Polished screen recordings, the kind with smooth zooms, a camera bubble and a tidy background, used to mean a paid Mac app or uploading your video to somebody else's cloud. Dotfik Studio does that work inside your browser instead. It is free, it runs on Windows, Mac, Chromebook and Linux computers, and your video never leaves your computer.
+
+### How it works
+
+- Recording uses your browser's own screen sharing, camera and microphone. You choose what to share, and the browser shows that it's being shared.
+
+- Video is encoded on your computer with the browser's built-in video encoder (WebCodecs), and kept in the tab's memory while you edit.
+
+- Editing (zooms, backgrounds, your camera layout, callouts and captions) is drawn frame by frame by the same code that shows the preview, so the download looks exactly like what you saw.
+
+- Captions are made by your browser's on-device speech recognition, so your voice is never sent to an online service.
+
+- The download is an MP4 file made on your computer. When it's saved, the recording is erased from the page, unless you choose to keep it for a second version.
+
+- The optional Chrome extension tells the studio where you point and click in the tab you record, so zooms can follow you. It works only during a recording and has no internet access.
+
+### Private by design, not by promise
+
+The website comes with a security policy that stops it from sending anything to any other server, so even a bug couldn't upload your recording. There are no accounts, no analytics and no tracking. Read the privacy page for the details.
+
+### Who makes it
+
+Dotfik Studio is made by Dotfik and has been online since 19 October 2026. It is built for people who teach on video: software tutorials, product demos, course lessons, bug reports and YouTube Shorts.
+
+Ready to record? It takes less than a minute to start.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/alternatives/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Comparisons
+
+## Free screen recorders compared: honest pros and cons
+
+Updated 22 October 2026 · 11-minute read
+
+Most free screen recorders have a catch: a watermark, a five-minute limit, a cap on how many videos you can make, or an upload to someone else's servers. This page puts eleven of them side by side, including the recorders built into Chromebooks, Macs and Windows, so you can spot the catch before you start. We make Dotfik Studio, so every fact about the others comes from their own pages, linked under the table.
+
+### The short answer
+
+There's no single best free screen recorder; it depends on which catch you can live with. Dotfik Studio is free in Chrome or Edge with no watermark, no fixed time limit and no uploads, but it has no share links. Loom and Castify are better for sharing and classrooms, but their free plans limit videos and length. Screen Studio is a paid Mac app.
+
+### How do the free screen recorders compare?
+
+Prices and limits are as each maker states them, checked 22 October 2026. "Not stated" and "not described" mean the maker's own pages don't say either way.
+
+| Recorder | Price | Works on | Watermark (free) | Free limits | Camera | Automatic zoom | Editor | Where your video goes |
+
+| Dotfik Studio | Free; no paid plan | Chrome, Edge, Brave and other Chromium browsers on Windows, Mac, Chromebook and Linux | No | None set; long takes need free memory (about 40 MB a minute at 1080p) | Yes | For clicks in Chrome web pages, with the free extension; by hand anywhere | Yes: cuts, speed-ups, zooms, captions, blur | Stays on your computer; you download an MP4 (no share links) |
+
+| Loom (free Starter plan) | Free; Business $18 and Business + AI $24 per user per month | Windows and Mac apps, Chrome extension, iPhone and Android | Loom branding (removal listed from Business) | 25 videos, 5 minutes each, up to 720p | Yes | Not described | Trimming listed from Business | Uploaded to Loom and shared by link; no downloads on Starter |
+
+| Castify, formerly Screencastify (free plan) | Free; Starter $7 and Pro $10 per user per month, billed annually | Browser extension for Chrome or Edge | Yes | 10 videos, 30 minutes each, up to 1080p; 5 MP4 exports | Yes | Not described | Yes: trim, stitch, text, blur | Shared by link from Castify; can upload to Google Drive |
+
+| Screen Studio | No free plan; $29 a month, or $9 a month on the yearly plan | Mac only (macOS 13.1 or later recommended) | No free plan | No free plan | Yes | Yes, from your clicks in the display, window or area you record | Yes | Stored and processed on your Mac; share links are optional uploads |
+
+| Cap (free for personal use) | Free for personal use; licence $29 a year or $58 once; Pro $12 per user per month | Apps for Mac, Windows and Linux, plus a Chrome extension | Not stated | No time limit on local recordings; share links up to 5 minutes; personal use only | Yes | Yes, from your recorded clicks | Yes (Studio Mode) | Studio Mode keeps it on your device; Instant Mode uploads as you go |
+
+| Screenity (free extension) | Extension free; Pro $10 a month or $120 billed yearly | Chrome extension | Not stated | Not stated for the free extension | Yes | In the paid editor | Paid (7-day trial) | Free extension keeps it on your device; sharing is paid |
+
+| Clipchamp (free plan) | Free plan; extra features with some Microsoft 365 subscriptions | Edge or Chrome on Windows, Mac, Linux and Chromebooks; Windows app | No, on exports up to 1080p | Screen and webcam recordings up to 30 minutes | Yes | Not described | Yes, a full video editor | Personal accounts: on your computer unless you turn on content backup |
+
+| OBS Studio | Free, open source | Windows 10 and 11, macOS 13 or newer, Linux | Not stated | Not stated | Yes | Not described | Not described (built for recording and live streaming) | Saved on your computer |
+
+| Chromebook screen recorder | Built in | Chromebooks | Not stated | Not stated | Yes (Front Camera) | Not described; can show clicks and keys | Not described | Saved as a .webm file in Downloads |
+
+| Mac Screenshot tool | Built in | Mac | Not stated | Not stated | Not among its options | Not described | Not described | Saved as a .mov file on your Mac |
+
+| Windows Snipping Tool | Built in | Windows 11 | Not stated | Not stated | Not described | Not described | Hands the clip to Clipchamp (Edit in Clipchamp) | Saved on your PC |
+
+Sources, all checked 22 October 2026:
+
+- Loom: pricing, recording limits, downloads and devices.
+
+- Castify: pricing and home page.
+
+- Screen Studio: home page and FAQ and auto zoom guide.
+
+- Cap: pricing and home page.
+
+- Screenity: home page and FAQ.
+
+- Clipchamp: Microsoft's pages on the recording limit, plans, supported computers and where files are kept.
+
+- OBS Studio: home page, quick start guide and recording guide.
+
+- Built-in tools: Google (Chromebook), Apple (Mac) and Microsoft (Snipping Tool).
+
+- Dotfik Studio: our privacy page and extension page.
+
+### Which free screen recorder should you choose?
+
+#### Choose Dotfik Studio if you want a finished video without a catch
+
+It suits tutorials, lessons and demos where you want your face in the corner, a few edits and an MP4 you can post anywhere, on any computer with Chrome or Edge. Nothing is uploaded and there's no account. Look elsewhere if you need share links, comments or a team library, or automatic zoom in desktop apps: its automatic zoom only follows clicks inside Chrome web pages, with the free extension, whether you share a tab, a window or the whole screen. Clicks in desktop apps aren't seen, so there you add zooms by hand.
+
+#### Choose Loom if you mostly send quick messages by link
+
+Loom is built around sharing. Comments, emoji reactions, viewer insights and team libraries are all in its free Starter plan. The catch is 25 videos of up to 5 minutes, at up to 720p, and no downloads unless you pay for Business (Loom pricing, checked 22 October 2026). Read Loom compared in detail.
+
+#### Choose Castify if you teach with Google Classroom
+
+Castify, the new name for Screencastify, connects to Google Classroom, Canvas and Schoology, and even the free plan can add questions and polls to your videos. Free videos carry a Castify watermark, and you get 10 of them, up to 30 minutes each (Castify pricing, checked 22 October 2026). Read Castify compared in detail.
+
+#### Choose Screen Studio if you're on a Mac and polish matters most
+
+Screen Studio is a Mac app that records your whole display, one window or an area, zooms in where you clicked, smooths the cursor and lets you edit by deleting sentences from the transcript. It costs $29 a month, or $9 a month on the yearly plan, and there's no Windows version (screen.studio, checked 22 October 2026). Read Screen Studio compared in detail.
+
+#### Choose Cap if you want a free desktop app with automatic zoom
+
+Cap is an open-source app for Mac, Windows and Linux that can "generate zooms from your recorded clicks", and its Studio Mode records straight to your device with no upload. The free version is for personal use only; commercial use needs a paid licence (Cap pricing, checked 22 October 2026).
+
+#### Choose Screenity if you want an open-source Chrome extension
+
+Screenity's free extension records your screen, camera and microphone, and the recording stays on your device with no account needed. Its editor, with automatic zoom, captions and MP4 export, is the paid part: $10 a month, or $120 billed yearly (screenity.io, checked 22 October 2026).
+
+#### Choose Clipchamp if you want Microsoft's full video editor
+
+Clipchamp is a video editor that also records your screen and webcam, in Edge or Chrome or as a Windows app. Free exports up to 1080p have no watermark, but each screen or webcam recording stops at 30 minutes, and you sign in with a Microsoft account (Microsoft support, checked 22 October 2026).
+
+#### Choose OBS Studio for live streaming and complex scenes
+
+OBS is free, open-source software "for video recording and live streaming" on Windows, Mac and Linux, with scenes you can switch between and an audio mixer with filters (obsproject.com, checked 22 October 2026). It takes time to set up, and its site doesn't describe a video editor, so plan to edit somewhere else.
+
+#### Use your computer's built-in recorder for quick clips
+
+A Chromebook records the screen with your camera and can show clicks and keys. A Mac records the screen with your microphone. The Windows 11 Snipping Tool records an area and can hand it to Clipchamp for editing. Google's and Apple's pages describe no editor for their recorders, and the files come out as WebM and MOV, which you can convert to MP4 and edit. Our guides cover each one: Chromebook, Mac and Windows.
+
+### What screen recorder do YouTubers use?
+
+It depends on the video. For live streams, OBS Studio is made for the job, with scenes, sources and an audio mixer. For polished software demos on a Mac, Screen Studio adds zooms from your clicks and smooths the cursor for you. For tutorials and lessons with your face in the corner, a recorder that captures your screen, camera and voice in one take and then edits them, such as Dotfik Studio, saves a trip to a separate editor. Our guide to recording your screen and face at the same time walks through that last approach.
+
+### Is there an online screen recorder with no sign-up?
+
+Yes. Dotfik Studio runs in your browser with no account: open the studio and record. Screenity's free extension also lets you record and download with "no account needed". Loom and Castify ask you to sign up, and Clipchamp asks you to sign in with a Microsoft account. The recorders built into Chromebooks, Macs and Windows 11 need no sign-up either.
+
+### How does Dotfik Studio compare with Loom, Castify and Screen Studio?
+
+- Dotfik Studio vs Loom: a finished MP4 with no 5-minute limit, or Loom's instant share links and comments.
+
+- Dotfik Studio vs Castify (Screencastify): no watermark and no uploads, or Castify's Google Classroom tools.
+
+- Dotfik Studio vs Screen Studio: free on Windows and Chromebooks, or Screen Studio's click-based automatic zoom on a Mac.
+
+Worried about privacy? How to check whether an online screen recorder is safe shows a two-minute test you can run on any of them.
+
+### Questions people ask
+
+Which free screen recorder has no watermark and no time limit?
+
+Dotfik Studio adds no watermark and sets no time limit, although very long recordings need plenty of free memory. Clipchamp's free exports up to 1080p have no watermark, but its recordings stop at 30 minutes; Castify's free plan adds a watermark, and Loom's stops each video at 5 minutes.
+
+Do free screen recorders upload my videos?
+
+Some do. Loom and Castify share your video by link from their own services, and Cap's Instant Mode uploads as you go. Dotfik Studio, OBS Studio and the built-in recorders save to your computer, and Clipchamp's personal accounts keep files on your computer unless you turn on content backup.
+
+Which free screen recorder works on a school Chromebook?
+
+The built-in recorder (Shift + Ctrl + Show windows) and browser-based recorders such as Dotfik Studio, Castify and Clipchamp all run on Chromebooks. A school can switch off screen capture on the Chromebooks it manages (Chrome Enterprise policy), so if recording fails, ask your IT team.
+
+Is OBS Studio better than an online screen recorder?
+
+For live streaming and complex scenes, often yes: it's free, open source and built for recording and live streaming. For a quick tutorial with your face and a few edits, a browser recorder is faster to start, because OBS needs installing and setting up and its site doesn't describe an editor.
+
+Which free screen recorder is best for teachers?
+
+If you rely on Google Classroom, questions inside videos and share links, Castify is built for schools, though its free plan has a watermark and a 10-video cap. If you want unlimited videos with no watermark and nothing uploaded, Dotfik Studio works on Chromebooks in Chrome, and you share the MP4 through Google Drive or Classroom yourself.
+
+Record your screen and face for free, with no watermark and no sign-up.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/alternatives/loom/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Comparisons
+- Loom
+
+## A free Loom alternative without the 5-minute limit
+
+Updated 22 October 2026 · 8-minute read
+
+Loom is built for quick video messages, but its free plan is tight: five minutes a video and 25 videos in all. If you want longer videos, a file you can keep, or nothing uploaded, here's an honest comparison, including where Loom is the better choice. We make Dotfik Studio, so every fact about Loom links to Loom's own pages.
+
+### The short answer
+
+Loom's free Starter plan allows 25 videos of up to 5 minutes each, at up to 720p, watched through a Loom link. If you want a finished MP4 with no per-video limit and nothing uploaded, Dotfik Studio is free in Chrome or Edge. Loom is still the better choice for instant share links, comments and team libraries.
+
+### Does Loom have a time limit?
+
+On the free Starter plan, yes. Loom says "Loom Starter users have a five-minute recording duration limit": the timer starts at 5:00, counts down, and the recording ends at 0:00. Starter also has a limit of 25 videos, and archived videos count towards it. Loom won't delete your videos when you reach it, but "you just won't be able to record more"; its answer is to upgrade to Business. Video quality on Starter goes up to 720p (How long can I record?, Starter plan FAQ, Loom pricing, all checked 22 October 2026).
+
+Business ($18 per user per month) and Business + AI ($24 per user per month) remove both limits, and Loom says you "save 17% if you pay annually". Dotfik Studio sets no length limit and no limit on the number of videos. The recording is kept in your computer's memory while you edit, up to about 40 MB a minute at 1080p, so an hour-long take needs plenty of free memory.
+
+### How do Loom and Dotfik Studio compare?
+
+| Feature | Loom Starter (free) | Dotfik Studio |
+
+| Price | Free; Business $18 and Business + AI $24 per user per month | Free; no paid plan |
+
+| Account | Sign up | None |
+
+| Video length | Up to 5 minutes | No fixed limit; long takes need free memory |
+
+| Number of videos | 25, including archived ones | No limit |
+
+| Video quality | Up to 720p | 720p, 1080p, 1440p or 4K at 24, 30 or 60 fps |
+
+| Works on | Windows and Mac apps, Chrome extension, iPhone and Android | Chrome, Edge, Brave and other Chromium browsers on Windows, Mac, Chromebook and Linux |
+
+| Camera | Screen and camera bubble | Bubble, split screen, camera only or screen only, changeable after recording |
+
+| Sharing | Link, with comments, emoji reactions and viewer insights | None built in: you download an MP4 and share it where you like |
+
+| Download the video | Not on Starter | Always, as an MP4 |
+
+| Editing | Trimming and stitching listed from Business | Trim, cut, speed up, zooms, blur, callouts, music, title cards |
+
+| Captions | Transcriptions in 50+ languages and closed captions | Made on your computer in nine languages (recent Chrome), or typed; burned in or saved as .srt |
+
+| Where your video goes | Your Loom library, watched through a link | Stays on your computer; erased from the page after download (by default) and always when you close the tab |
+
+Loom facts from its pricing page and help centre (downloads, devices), checked 22 October 2026.
+
+### Where is Loom better?
+
+- Sharing by link. Copy the video's link and send it: no file to export or upload. Public videos can be watched by anyone with the link, and "no login or Loom account is required" (Loom help, checked 22 October 2026).
+
+- Conversation around the video. Comments, emoji reactions and viewer insights are all in the free plan, next to the video itself.
+
+- Team libraries. A team workspace with personal, shared and team libraries, even on Starter.
+
+- Phones. Loom has apps for iPhone and Android; Dotfik Studio doesn't work on phones or tablets yet.
+
+- Transcripts in more languages. Loom lists transcriptions in 50+ languages, on the free plan too.
+
+### Where is Dotfik Studio better?
+
+- No 5-minute timer and no 25-video cap. Record a 40-minute lesson or a hundred bug reports.
+
+- You keep the file. Every recording becomes an MP4 you can upload to YouTube, Google Drive, Google Classroom or Slack. On Loom, "Users on the Starter Free plan can't download videos".
+
+- Real editing, free. Trim, cut mistakes, speed up slow parts, remove long pauses in one click, add zooms, callouts and captions, and blur an email address or password. Loom lists trimming from Business.
+
+- Nothing uploaded. Recording, editing and the MP4 export happen on your computer, with no account, no analytics and no tracking.
+
+- Sharper video. Export up to 4K at 60 fps, against 720p on Loom's free plan.
+
+### Are Loom videos private?
+
+They can be, but check the setting. Loom's help centre lists three access levels. Public videos "can be viewed by anyone who has the link to your video; no login or Loom account is required". Open to workspace videos can be watched and found by anyone logged in to your workspace. Restricted videos can only be watched by people whose email you've added. New videos are Public unless your workspace admins change the default (Use Loom's privacy settings, checked 22 October 2026).
+
+Whatever the setting, Loom stores the video so that others can watch it. With Dotfik Studio, nothing leaves your computer until you choose where to upload the MP4. Our guide on whether online screen recorders are safe shows how to check any recorder yourself.
+
+### Is Loom free for students and teachers?
+
+Anyone can use the free Starter plan, with its 5-minute and 25-video limits. Beyond that, education pricing is a discount rather than free. Loom's education page says "Qualified educators get unlimited recordings and access to premium features at 75% off", and its Get started button leads to Atlassian's classroom licence request. Atlassian lists Loom Business and Business + AI at 75% off for "eligible collegiate students, graduate students, and teachers", and at 50% off for eligible academic institutions (Loom for education, Atlassian licensing, checked 22 October 2026).
+
+Dotfik Studio is free for everyone, students included, with no account. For classroom features such as questions inside videos, read our Castify (Screencastify) comparison.
+
+### What other free Loom alternatives are there?
+
+It depends on which part of Loom you need:
+
+- Cap calls itself "the open source alternative to Loom". It's a desktop app for Mac, Windows and Linux; Studio Mode records to your device with no time limit, and free share links are capped at 5 minutes. The free version is for personal use only (Cap pricing, checked 22 October 2026).
+
+- Screenity is a free, open-source Chrome extension that keeps recordings on your device. Share links and its editor are part of the paid plan, $10 a month or $120 billed yearly (screenity.io, checked 22 October 2026).
+
+- Castify, formerly Screencastify, has share links on its free plan: 10 videos of up to 30 minutes, with a watermark (Castify pricing, checked 22 October 2026).
+
+- Dotfik Studio has no share links, but no limits, no watermark and a full editor, for free.
+
+- OBS Studio and the recorders built into your computer save files to your computer, and you share them yourself.
+
+The comparison of free screen recorders puts them all in one table.
+
+### How do you share a video without Loom?
+
+- Record in the studio: screen, camera and voice, in one take.
+
+- Trim it, add captions if you like, and download the MP4.
+
+- Upload it where your viewers already are, such as Google Drive, YouTube or Slack, and share that link.
+
+It's one more step than Loom, and you won't see comments or viewer insights. In return, you choose where the video lives and who can see it.
+
+### Questions people ask
+
+Can I download my Loom videos on the free plan?
+
+No. Loom's help centre says users on the Starter Free plan can't download videos. Downloads, as MP4 files, are available to admins and creators on Business plans.
+
+What happens when I reach 25 videos on Loom?
+
+Loom keeps your videos, but you can't record any more on Starter; Loom's help centre suggests upgrading to a paid Business account. Archived videos count towards the 25.
+
+Does Dotfik Studio have share links like Loom?
+
+No. You download an MP4 and upload it wherever you like, such as YouTube, Google Drive, Google Classroom or Slack. There's no cloud library.
+
+Can I record more than 5 minutes for free?
+
+Yes. Dotfik Studio has no fixed limit, as long as your computer has free memory for long takes. Castify's free plan allows up to 30 minutes per video, and Clipchamp's screen recordings stop at 30 minutes.
+
+Is Dotfik Studio really free?
+
+Yes. There's no paid plan, no account and no watermark, and nothing you record is uploaded.
+
+Record your next video without a 5-minute timer.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/alternatives/screen-studio/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Comparisons
+- Screen Studio
+
+## A free Screen Studio alternative for Windows, Chromebook and Linux
+
+Updated 22 October 2026 · 8-minute read
+
+Screen Studio makes screen recordings look polished, with zooms that follow your clicks. But it only runs on a Mac, and it's a subscription. If you're on Windows or a Chromebook, or you'd rather not pay, here's an honest look at what a free browser recorder can and can't match. We make Dotfik Studio, so every fact about Screen Studio links to its own website.
+
+### The short answer
+
+Screen Studio is a paid, Mac-only app ($29 a month, or $9 a month on the yearly plan) that records your display, a window or an area and zooms in where you clicked. Dotfik Studio is free and runs in Chrome or Edge on Windows, Chromebook, Linux and Mac, but its automatic zoom only follows clicks in Chrome web pages, with its extension; elsewhere, you add zooms by hand.
+
+### Is Screen Studio free?
+
+No. Screen Studio's website lists two plans, each with every feature included: $29 a month on the monthly plan, or $9 a month on the yearly plan. It lists no free plan. Students and educators get 40% off. One-time licences are "no longer available for new purchases", although licences bought in the past still work (screen.studio, checked 22 October 2026).
+
+Dotfik Studio is free, with no paid plan, no account and no watermark.
+
+### Is there a Screen Studio for Windows?
+
+No. Screen Studio says it is "made for Mac and nothing else", and its FAQ says there are "no near-future plans to add Windows support". It recommends macOS 13.1 or later (screen.studio, checked 22 October 2026).
+
+On Windows there are two kinds of alternative. Dotfik Studio runs in Chrome, Edge or Brave, so there's nothing to install, and it works the same on a Chromebook or a Linux laptop. Cap is an open-source desktop app for Windows, Mac and Linux that can "generate zooms from your recorded clicks". It's free for personal use, and commercial use needs a paid licence, from $29 per licence per year or $58 once (Cap pricing, checked 22 October 2026). If most of your demos happen in desktop apps rather than a browser, compare Cap too. The comparison of free screen recorders covers more options.
+
+### How do Screen Studio and Dotfik Studio compare?
+
+| Feature | Screen Studio | Dotfik Studio |
+
+| Price | $29 a month, or $9 a month on the yearly plan; no free plan listed | Free; no paid plan |
+
+| Computers | Mac only (macOS 13.1 or later recommended) | Windows, Mac, Chromebook and Linux, in Chrome, Edge, Brave or another Chromium browser |
+
+| What you install | A Mac app | Nothing to record; an optional extension adds automatic zoom |
+
+| What you can record | Your whole display, one window or an area; iPhone and iPad | A screen, a window or a browser tab |
+
+| Automatic zoom | From your clicks, in the display, window or area you record | From your clicks in Chrome web pages, with the extension, whether you share a tab, a window or the whole screen |
+
+| Zoom by hand | Yes | Yes, in any recording |
+
+| Cursor | Recorded separately, so you can smooth it, resize it or change its style afterwards | Click ripples, pointer highlight and spotlight (extension, Chrome web pages) |
+
+| Camera | Webcam, with background removal and several layouts | Bubble, split screen, camera only or screen only, changeable after recording |
+
+| Sound | Microphone and your Mac's sound | Microphone and computer sound (on a Mac, whole-screen sound needs Chrome 141 or newer on macOS 14.2 or newer) |
+
+| Editing | Edit by transcript, remove filler words and pauses, trim and speed up | Trim, cut, speed up 2×, 4× or 8×, cut long pauses, even out your voice |
+
+| Captions | Transcribed on your Mac; optional cloud transcription | Made by the browser's on-device speech recognition in recent Chrome, or typed |
+
+| Hiding private details | Masks | Blur, pixelate or cover an area |
+
+| Video shapes | "Any aspect ratio", including vertical 9:16 | 16:9, 9:16, 1:1, 4:5, 3:4 and 4:3 |
+
+| Export | MP4 at 720p, 1080p or 4K up to 60 fps; GIFs | MP4 at 720p, 1080p, 1440p or 4K; 24, 30 or 60 fps |
+
+| Share links | Yes, for videos up to 30 minutes; uploaded when you create one | No; you download the MP4 |
+
+| Where recordings live | Stored and processed on your Mac | In the browser tab's memory; nothing is uploaded |
+
+Screen Studio facts come from its website and FAQ and its guides to auto zoom and shareable links, checked 22 October 2026.
+
+### Where is Screen Studio better?
+
+- Automatic zoom from your clicks. Screen Studio records "your whole display, one window, or just the area that matters", then "looks at what you did while recording, like where you clicked, and zooms in on the moments that matter". Dotfik Studio's automatic zoom can't see clicks in desktop apps.
+
+- Cursor polish. It records your screen without the cursor, then adds the cursor back, so you can smooth its movement and change its size and style after recording.
+
+- Editing by transcript. "Delete a sentence to cut it", and clear filler words and long pauses in one pass.
+
+- iPhone and iPad recording, framed in a matching device bezel.
+
+- Share links when you want them, for videos up to 30 minutes, uploaded only when you create one.
+
+On privacy, the two are closer than you might expect: Screen Studio's FAQ says your recordings "are stored and processed locally on your computer", and its cloud features are optional.
+
+### Where is Dotfik Studio better?
+
+- It's free, with no account, no watermark and no paid plan.
+
+- It works on Windows, Chromebooks and Linux as well as Macs, in Chrome, Edge, Brave and other Chromium browsers. Safari, Firefox, phones and tablets aren't supported yet.
+
+- Nothing to install to start. You record from the studio page; the extension is only needed for automatic zoom, click effects and shortcut badges.
+
+- No cloud at all. Recording, editing and the MP4 export happen on your computer, and the site's security policy stops the page from sending data to any other server.
+
+Both offer several camera layouts, both make vertical videos, and both can turn your voice into captions on your own computer. Our guides show how in Dotfik Studio: screen and face, Shorts and Reels and captions.
+
+### How does automatic zoom work in each?
+
+Screen Studio records your clicks along with the screen, then "automatically detects the click positions and zooms in on those areas". If there's no click, it can't zoom automatically, and you add a zoom by hand (Screen Studio's auto zoom guide, checked 22 October 2026).
+
+Dotfik Studio needs the free Chrome extension to see where you click. The extension lives in web pages, so it notices clicks, pointer movement and shortcuts inside Chrome web pages, whether you share a tab, a window or the whole screen, but not in desktop apps. It isn't on the Chrome Web Store yet; installing it takes about a minute with Load unpacked. In desktop apps, or without the extension, use Add zoom here at the right moment on the timeline. It works in any recording, and you can move, retime or delete every zoom. The guide to zooming in on a screen recording shows both ways.
+
+### Which should you choose?
+
+- Choose Screen Studio if you work on a Mac, record demos of desktop apps often, and the subscription is worth the editing time it saves you.
+
+- Choose Dotfik Studio if you're on Windows, a Chromebook or Linux, if what you demo happens mostly in the browser, or if you want a free tool with no account. On a Mac, read how to screen record on a Mac first.
+
+- Compare Cap as well if you'd rather have a desktop app on Windows with zooms made from your clicks, and you're recording for personal use or can pay for a licence.
+
+### Questions people ask
+
+Can I buy Screen Studio once instead of subscribing?
+
+Not any more. Screen Studio says one-time licences are no longer available for new purchases; licences bought before still work, and their owners can renew them for the latest updates.
+
+Does Screen Studio have a student discount?
+
+Yes. Its FAQ says students and educators get 40% off, automatically with an email address from a university or other educational institution, or by sending proof of student status such as a student ID.
+
+Can Dotfik Studio zoom in automatically in desktop apps?
+
+No. Automatic zoom follows clicks inside Chrome web pages, using the free extension, whether you share a tab, a window or the whole screen. In desktop apps, add zooms by hand with Add zoom here, which works in any recording.
+
+Do I need the Dotfik Studio extension?
+
+Only for automatic zoom, click effects and shortcut badges in Chrome web pages. Recording your screen, camera and voice, editing, and adding zooms by hand all work without it.
+
+Does Screen Studio upload my recordings?
+
+Not by default. Its FAQ says recordings are stored and processed on your computer; a shareable link uploads that video when you create one, and Screen Studio asks before the first upload.
+
+Try zooms, a camera bubble and captions for free on Windows, Chromebook or Mac.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/alternatives/screencastify/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Comparisons
+- Screencastify
+
+## A free Screencastify alternative with no watermark
+
+Updated 22 October 2026 · 7-minute read
+
+Screencastify, now called Castify, has tools made for classrooms: it connects to Google Classroom and can put questions inside your videos. But its free plan adds a watermark and stops at 10 videos. Here's an honest comparison for teachers and students, including what Castify does better and what to check on a school Chromebook. We make Dotfik Studio, so every fact about Castify links to Castify's own pages.
+
+### The short answer
+
+Screencastify is now called Castify. Its free plan allows 10 videos of up to 30 minutes, at up to 1080p, with a Castify watermark. Dotfik Studio is a free alternative with no watermark, no limit on the number of videos and nothing uploaded, which helps with student privacy. It has no share links, questions or classroom tools, though.
+
+### What happened to Screencastify?
+
+On 19 March 2026, the company announced that "Screencastify officially becomes Castify", a wider set of tools that includes video editing, AI documents and video assignments, and that existing users "will see their favorite tools rebranded within the new, expanded workspace" (the company's press release, checked 22 October 2026). The recorder still carries the old name: Castify's site says "Castify and the Screencastify video recording browser extension run directly in your browser", in Chrome or Edge (castify.com, checked 22 October 2026).
+
+### Is Screencastify free for educators?
+
+There's a free plan that anyone can use, teachers included, but Castify's pricing page lists no separate free plan for educators. On the free plan you can "create or upload up to 10 videos", record up to 30 minutes per video at up to 1080p, and every video "Has Castify watermark". You can keep, watch and share those first 10 videos for as long as you like, and you get 5 bonus videos for each person you invite, up to 4 invites. MP4 exports are limited to 5 videos (Castify pricing, checked 22 October 2026).
+
+The Starter plan costs $7 per user per month, billed annually ($19 billed monthly), allows unlimited videos up to 60 minutes and removes the watermark on new videos. Pro costs $10 per user per month, billed annually ($25 billed monthly), and allows recordings up to 180 minutes, unlimited MP4 exports, and captions and AI-generated questions on every video (the free and Starter plans get them on 5 videos). Schools get custom pricing on the "Enterprise & EDU" plan.
+
+### How do Castify and Dotfik Studio compare?
+
+| Feature | Castify free plan | Dotfik Studio |
+
+| Price | Free; Starter $7 and Pro $10 per user per month, billed annually | Free; no paid plan |
+
+| Number of videos | 10, plus up to 20 bonus videos for inviting people | No limit |
+
+| Video length | Up to 30 minutes | No fixed limit; long takes need free memory |
+
+| Video quality | Up to 1080p | 720p, 1080p, 1440p or 4K |
+
+| Watermark | Yes | No |
+
+| Account | Sign up | None |
+
+| Works on | Extension for Chrome or Edge | Chrome, Edge, Brave and other Chromium browsers on Chromebook, Windows, Mac and Linux |
+
+| Camera | Yes | Yes, with layouts you can change after recording |
+
+| Questions and polls in videos | Yes | No |
+
+| Google Classroom, Canvas, Schoology | Integration on every plan | Upload the MP4 yourself |
+
+| Share links | Yes, with limited viewer analytics | No |
+
+| MP4 downloads | 5 videos | Every video |
+
+| Editing | Trim, stitch, text and blur | Trim, cut, speed up, zooms, blur, callouts, music, title cards |
+
+| Captions | On 5 videos (every video on Pro) | On every video: made on your computer, or typed |
+
+| Where videos go | Shared from Castify by link; can upload to Google Drive | Stay on your computer until you upload the MP4 |
+
+| Student privacy | Castify says it complies with FERPA, COPPA and CSPC and is SOC 2 Type II certified | No account, no uploads, no analytics or tracking |
+
+Castify facts from its pricing page and page for teachers, checked 22 October 2026.
+
+### Where is Castify better for classrooms?
+
+- Learning platforms. It integrates with Google Classroom, Canvas and Schoology, with grade sync for Canvas and Schoology on Pro.
+
+- Questions inside videos. Questions and polls are included even on the free plan, and AI can write them for you (on 5 videos, or every video on Pro).
+
+- Collecting student videos. Castify Submit lets you request and collect videos from students.
+
+- Share links and analytics. Students watch from a link, and you can see viewer analytics (limited on the free plan).
+
+- Tools for schools. The Enterprise & EDU plan adds student restrictions, admin analytics and commenting controls.
+
+### Where is Dotfik Studio better?
+
+- No watermark and no limit on the number of videos, for free.
+
+- Every video downloads as an MP4, ready for Google Drive, Google Classroom or YouTube.
+
+- Nothing is uploaded. There's no account, no analytics and no tracking. The recording is erased from the page after download by default, and always when you close the tab. Dotfik Studio never receives your students' faces or voices.
+
+- Full editing, free. Trim, cut, speed up, zoom, blur private details, add callouts and title cards, and make captions on your own computer.
+
+- Every shape. One recording can become a 16:9 lesson video, a 4:3 video for slides or a 9:16 clip for a phone.
+
+What it doesn't have: share links, questions, viewer analytics, platform integration or admin controls. You download the MP4 and post it to Google Classroom or Google Drive yourself, like any other file.
+
+### Will it work on a school Chromebook?
+
+Usually, yes. Dotfik Studio runs in Chrome on a Chromebook with nothing to install. But a school's administrator controls the Chromebooks it manages, and Chrome's enterprise policies let them (Chrome Enterprise policy list, checked 22 October 2026):
+
+- Turn off screen capture for websites. With the "Allow or deny screen capture" policy set to deny, "any calls to screen-share APIs will fail with an error" unless the administrator allows that site. Browser recorders, Dotfik Studio included, then can't record.
+
+- Block developer mode or unpacked extensions. The Dotfik Studio extension isn't on the Chrome Web Store yet, so it's installed with Load unpacked in developer mode. Administrators can switch developer mode off, and when every extension is blocked, "All unpacked extensions are blocked". Without the extension you can still record, use your camera and add zooms by hand.
+
+- Switch off the built-in recorder. One option reads "Do not allow users to take screenshots or video recordings".
+
+If recording is blocked, ask your teacher or IT team rather than looking for a way round it. Our Chromebook recording guide covers the built-in recorder too.
+
+### How do you share a Dotfik Studio video with your class?
+
+- Open the studio in Chrome and record your screen, camera and voice.
+
+- Trim the start and end, add captions if you like, and choose a shape.
+
+- Download the MP4. It's saved to your computer, and by default the recording is then erased from the page.
+
+- Upload it to Google Drive or Google Classroom, as you would any other file.
+
+Recording slides with your face in the corner? The guide to recording a presentation with your face has the details.
+
+### Questions people ask
+
+Is Screencastify the same as Castify?
+
+Yes. Screencastify became Castify in March 2026. The recorder extension still carries the Screencastify name and sits inside Castify's wider set of tools.
+
+Does Castify still have a free plan?
+
+Yes: 10 videos of up to 30 minutes each, at up to 1080p, with a Castify watermark and up to 5 MP4 exports, according to its pricing page (checked 22 October 2026).
+
+Can I add quiz questions to my videos with Dotfik Studio?
+
+No. Dotfik Studio makes an MP4 file. If you want questions inside the video, Castify includes questions and polls even on its free plan.
+
+Can students use Dotfik Studio without an account?
+
+Yes. There's no sign-up, and the recording stays on the computer until the student downloads the MP4 and hands it in.
+
+How do I turn a Chromebook screen recording into an MP4?
+
+The built-in recorder saves WebM files. Open one in Dotfik Studio with Edit a video file instead and export it as MP4; the WebM to MP4 guide shows the steps.
+
+Make a lesson video with no watermark, in Chrome on a Chromebook or any laptop.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/extension/
+Updated: 2026-10-22
+
+## The Dotfik Studio extension
+
+Free for Chrome, Edge, Brave and other Chromium browsers. It lets the studio see your pointer, clicks and shortcuts in the tabs you record, so your video zooms and highlights by itself.
+
+Download the extension
+
+Version 0.1.0 · 35 KB
+
+Coming soon to the Chrome Web Store. Until then, installing it takes about a minute:
+
+### Install it
+
+- Download the extension with the button above, then unzip it (double-click the file). You'll get a folder called dotfik-studio-extension.
+
+- Open your browser's extensions page: type chrome://extensions in the address bar (edge://extensions in Edge, brave://extensions in Brave). Copy the address
+
+- Turn on Developer mode with the switch in the corner of that page.
+
+- Click Load unpacked and choose the dotfik-studio-extension folder.
+
+- Click the puzzle-piece icon next to the address bar and pin Dotfik Studio, so it's one click away.
+
+### What it adds
+
+- Automatic zooms where you click, gliding along with your pointer (or holding still, if you prefer).
+
+- Click effects and a pointer highlight, so viewers never lose track of what you're doing.
+
+- Shortcut badges such as ⌘ K or Ctrl + S, shown on screen as you press them.
+
+- Keyboard shortcuts: Alt + Shift + R stops the recording and Alt + Shift + P pauses or resumes it, from any tab (on a Mac: ⌥ ⇧ R and ⌥ ⇧ P).
+
+Private by design. The extension only runs inside your web pages while you're recording, never reads password fields, ignores normal typing unless you ask for it, and can't connect to the internet. What it sees goes to the studio tab on your computer and nowhere else. More about privacy.
+
+### Why does it ask to read websites?
+
+To notice your clicks in the tabs you record, the extension needs to run in those pages. Chrome describes that as "read and change data on websites". It asks only when you switch on click tracking, and even then its script is only placed in your pages while a recording runs. You can switch access off at any time on the extension's details page.
+
+---
+
+Source: https://dotfikstudio.github.io/faq/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Questions and answers
+
+## Questions and answers
+
+Updated 22 October 2026
+
+The questions people ask most about Dotfik Studio, the free screen recorder that works in your browser. If yours isn't here, the guides go into more detail.
+
+### The basics
+
+Is Dotfik Studio really free?
+
+Yes. There is no paid plan, no trial and no feature held back. Your computer does the recording and editing, so each video costs nothing to make on our side.
+
+Does it add a watermark to my videos?
+
+No. Your downloaded video carries no watermark, logo or end card unless you add your own.
+
+Do I need an account or to sign up?
+
+No. Open the studio and start recording. There are no accounts at all.
+
+Do I need to install anything?
+
+No. Recording your screen, camera and voice works in the browser on its own. The optional Chrome extension adds automatic zooms, click effects and shortcut badges.
+
+Which computers and browsers does it work on?
+
+Chrome, Edge, Brave and other Chromium browsers on Windows, Mac, Chromebook and Linux computers. Safari and Firefox aren't supported yet, because they lack some of the video tools the studio needs.
+
+Does it work on a phone or an iPad?
+
+Not yet. Recording your screen in a browser needs a computer.
+
+Is there a time limit on recordings?
+
+No limit is set. The recording is kept in your computer's memory while you work, up to about 40 MB per minute at 1080p, so very long takes (an hour or more) need plenty of free memory. Several shorter takes are easier to edit anyway.
+
+### Recording
+
+How do I record my screen and my face at the same time?
+
+Choose your camera and microphone in the studio, pick the screen to share and press Start recording. Your camera appears in a bubble you can move, resize or turn into a split screen afterwards. The screen and face guide has the details.
+
+Can it record the sound from my computer, not just my voice?
+
+Yes. Turn on Record computer sound, then tick the audio switch in your browser's sharing window. A tab's sound works on every system; a whole screen's sound works in Chrome on Windows and Chromebooks, and on a Mac with Chrome 141 or newer on macOS 14.2 or newer. See how to screen record on a Mac with sound.
+
+Can I record just one window or one browser tab?
+
+Yes. Your browser's sharing window lets you choose a whole screen, a single window or a single tab.
+
+Can I pause a recording?
+
+Yes, with the pause button. With the extension installed, Alt + Shift + P pauses and resumes from any tab, and Alt + Shift + R stops (on a Mac, ⌥ ⇧ P and ⌥ ⇧ R).
+
+Why does my recording have no sound?
+
+Check that the right microphone is chosen in the studio. For computer sound, both the Record computer sound switch and the audio switch in the browser's sharing window must be on. The Windows, Mac and Chromebook guides cover each system.
+
+Can I edit a video I recorded with another app?
+
+Yes. Choose Edit a video file instead on the studio's start screen to open a video, such as a Chromebook WebM or a Mac MOV recording, then edit it and download an MP4. Its sound counts as computer sound, so captions have to be typed and pause cutting isn't offered. See how to convert WebM to MP4.
+
+### Editing
+
+How do the automatic zooms work?
+
+With the free extension, the studio knows where you click inside the Chrome tabs you record, and zooms in there. Anything else, including desktop apps, can be zoomed by hand with Add zoom here. See how to zoom in on a screen recording.
+
+Why is the Chrome extension needed for automatic zooms?
+
+A web page only receives the pixels of what you share. The extension tells the studio where your pointer is and where you click inside the tabs you record. It runs only during a recording and has no internet access.
+
+Can it make captions?
+
+Yes. In recent versions of Chrome, captions are made from your voice on your computer, in nine languages, or you can type them. Show them in the video, save them as an .srt file for YouTube, or both. See how to add captions.
+
+Can I make vertical videos for Shorts, Reels and TikTok?
+
+Yes. Choose the 9:16 shape before you download, and your camera layout adapts. The same recording can also be downloaded as 16:9 for YouTube. See the guide to Shorts and Reels.
+
+Can I hide passwords or personal details?
+
+Yes. Blur, pixelate or cover any area for exactly as long as it's on screen. It stays in place through zooms.
+
+Can I cut mistakes and long pauses?
+
+Yes. Trim the start and end, cut out any part, or speed it up 2×, 4× or 8×. Cut the pauses finds the long silences and removes them in one click.
+
+Can I add background music?
+
+Yes. Add a music file and it fades in and out, repeats to the end if you like, and gets quieter while you talk.
+
+### Downloading and sharing
+
+What kind of file do I get?
+
+An MP4 file (H.264 video with AAC sound), which plays almost everywhere. Choose 720p, 1080p, 1440p or 4K, at 24, 30 or 60 frames per second, in six shapes from 16:9 to 9:16.
+
+Can I share a link to my video?
+
+No. Dotfik Studio doesn't host videos, so there are no share links. Upload the MP4 wherever you share things: YouTube, Google Drive, Google Classroom, Slack or email. If instant links matter most, see the Loom comparison.
+
+How do I add my captions to a YouTube video?
+
+Save the captions as an .srt file in the editor, then upload that file in YouTube Studio's subtitles section. The captions guide shows the steps.
+
+### Privacy and safety
+
+Is my recording uploaded anywhere?
+
+No. Recording, editing and the MP4 export all happen in your browser. The site's security policy stops the page from sending data to any other server. Read the privacy page.
+
+What happens to my recording when I close the tab?
+
+It's erased, because it only ever lived in that tab. Your browser asks you to confirm before you close a tab that still holds a recording, so download it first. Downloading erases it too (untick that switch to make a second version first), and so does pressing Delete.
+
+What can the Chrome extension see?
+
+Your pointer, clicks and keyboard shortcuts inside the tabs you record, and only while a recording runs. It never reads password fields, ignores normal typing unless you turn it on, and can't connect to the internet.
+
+Can a website record my screen without my permission?
+
+No. Your browser asks every time a site wants to see your screen, you choose what it may see, and the browser shows while sharing is on. See whether an online screen recorder is safe.
+
+### About Dotfik Studio
+
+Who makes Dotfik Studio?
+
+Dotfik Studio is made by Dotfik and has been online since 19 October 2026. The about page tells the story.
+
+How is it different from Loom, Screen Studio or Screencastify?
+
+It's free with no watermark, works on any computer with Chrome, and never uploads your video, but it has no share links or team features. The comparison sets out the honest pros and cons.
+
+The quickest answer is to try it: recording starts in under a minute.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+
+## Screen recording guides
+
+Updated 22 October 2026
+
+Plain, step-by-step answers to the questions people ask most about recording their screen. Each guide shows the free way with the tools already on your computer, and how to do it with Dotfik Studio when you want more, like your camera in the corner, smooth zooms or captions.
+
+### Record your screen
+
+Record your screen and face Your screen with your webcam in a bubble or a split screen, in one take.
+Screen record on a Mac With sound, including the Mac's own audio, without extra drivers.
+Screen record on Windows Snipping Tool, Game Bar, Clipchamp, or your browser, with audio.
+Screen record on a Chromebook With sound and your face, and how to edit the recording afterwards.
+Record a presentation with your face Google Slides, PowerPoint or Canva, with you on camera.
+
+### Edit and polish
+
+Zoom in on a screen recording Automatic zooms where you click, or zooms you add by hand, plus click effects.
+Add captions to a screen recording Captions made on your computer, burned in or saved as an .srt file for YouTube.
+Turn a recording into a Short or Reel Vertical 9:16 videos for YouTube Shorts, Instagram Reels and TikTok.
+Convert WebM to MP4 Change a Chromebook or browser recording into an MP4, without uploading it.
+
+### Privacy and safety
+
+Is an online screen recorder safe? What a website can and can't record, and a two-minute check you can run.
+How Dotfik Studio keeps recordings private Nothing is uploaded, and recordings are erased from the page when you're done.
+
+### Compare screen recorders
+
+Free screen recorders compared Watermarks, time limits, cameras, zoom and where your video goes.
+Screen Studio alternative For Windows, Chromebook and Linux, as well as Mac.
+Loom alternative Finished MP4 videos without a five-minute limit.
+Screencastify alternative For teachers and students on Chromebooks.
+
+Want to try it while you read? The studio is one click away, with nothing to install.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/add-captions-to-screen-recording/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Captions and subtitles
+
+## How to add captions to a screen recording
+
+Updated 22 October 2026 · 6-minute read
+
+Captions help people who can't hear the sound, people watching with it off, and anyone who'd rather read along. This guide shows how to add them to a screen recording for free, burned into the video or as an .srt subtitle file for YouTube, without signing up anywhere.
+
+### The short answer
+
+Make captions from your voice or type them, then either burn them into the video so they always show, or save them as an .srt subtitle file to upload to YouTube. Dotfik Studio does both free in Chrome, with no sign-up: the captions are made on your computer by the browser's own speech recognition, and your voice is never sent to an online service.
+
+### What's the difference between captions and subtitles?
+
+In everyday use, both words mean text on screen that matches what's said. Strictly, captions are for people who can't hear the sound, so they're in the same language and can include sounds such as [music], while subtitles usually translate the speech for people who don't speak the language. For a screen recording, the bigger choice is how the text is delivered.
+
+### Should captions be burned in or a separate file?
+
+Burned-in captions, also called open captions, are drawn into the picture. A caption file such as an .srt is a separate text file with a time for each line: the video player shows it over the video, and viewers can usually turn it off.
+
+| What matters | Burned-in captions | An .srt file |
+
+| Where they show | Everywhere the video goes: Shorts, Reels, TikTok, a chat or an email | In players that accept caption files, such as YouTube |
+
+| Can viewers hide them? | No | Usually |
+
+| Fixing a typo later | Export and upload the video again | Edit or replace the file |
+
+| Best for | Short social videos and clips people watch with the sound off | Longer YouTube videos and tutorials |
+
+You can do both: burn captions into a Short and upload the .srt with the full YouTube video. The guide to Shorts, Reels and TikTok covers the vertical version.
+
+### How do you add captions with Dotfik Studio?
+
+- Record with your microphone on in the studio.
+
+- In the editor, open the Captions settings and choose the language you spoke.
+
+- Press Make captions from my voice. Your browser's on-device speech recognition listens to the recording in real time, so it takes as long as the recording. The first time, the browser may need to download a speech pack for that language.
+
+- Read the captions through and fix any word it misheard: you can edit the text of any caption. You can also type captions by hand.
+
+- To burn them in, turn on Show captions in the video. For YouTube, press Save .srt to download the subtitle file. Do this before you download the video, because by default the recording is erased from the page once the MP4 is saved.
+
+- Download the MP4.
+
+Captions can be made from your voice in English (US, UK and India), Spanish, French, German, Italian, Portuguese (Brazil), Hindi, Japanese and Korean. For any other language, type them.
+
+### How do you upload an .srt file to YouTube?
+
+YouTube accepts SubRip (.srt) files (supported subtitle files). These are its steps for adding one on a computer (YouTube Help, checked 22 October 2026):
+
+- Sign in to YouTube Studio and select Subtitles in the left menu.
+
+- Select the video.
+
+- Click ADD LANGUAGE and choose the language of your captions.
+
+- Under Subtitles, click ADD, then select Upload file.
+
+- Choose With timing, because an .srt file has the times in it, then Continue.
+
+- Choose your .srt file and select Save.
+
+### Can YouTube make the captions for you?
+
+Often, yes. YouTube "can use speech recognition technology to automatically create captions" in many languages. Its help page also says they "may not be ready at the time that you upload a video", asks creators to review them and fix mistakes in YouTube Studio, and lists reasons they may not appear: a video that's too long, poor sound, a long silence at the start, an unsupported language, or people talking over each other (YouTube Help, checked 22 October 2026).
+
+Those captions stay on YouTube. If you post the same video elsewhere or send the file, it needs captions of its own.
+
+### Is your voice kept private?
+
+With Dotfik Studio, yes. The captions are made by your browser's on-device speech recognition, and your voice is never sent to an online service. Recording, editing and the MP4 export all happen on your computer. The privacy page explains how, and how to check whether an online screen recorder is safe shows how to test any tool yourself.
+
+### What are the limits?
+
+- Browser. Making captions from your voice needs on-device speech recognition, which recent versions of Chrome have. If your browser can't do it, type the captions instead.
+
+- Languages. Only the languages listed above.
+
+- Time. It listens in real time, so a ten-minute recording takes about ten minutes.
+
+- Video files you open. For a file opened with Edit a video file instead, such as a Chromebook WebM, type the captions: making them from your voice works on the microphone sound of a recording made in the studio.
+
+- Accuracy. Speech recognition can mishear names and technical words, so read the captions through before you publish.
+
+### Questions people ask
+
+Do YouTube Shorts need captions?
+
+They aren't required. YouTube's help page covers automatic captions on long-form videos and Shorts and says it encourages creators to "add professional captions first" (YouTube Help, checked 22 October 2026). Burned-in captions are the safest choice for a Short, because they show wherever it's played.
+
+How can I add subtitles to a video for free without signing up?
+
+Open the studio in Chrome, choose Edit a video file instead, type the captions, turn on Show captions in the video to burn them in, and download the MP4. There's no account, and nothing is uploaded.
+
+How do I make an .srt file from a video?
+
+Make or type the captions in Dotfik Studio, then press Save .srt. For a recording made in the studio, Make captions from my voice writes them for you; for a video file you open, type them by hand.
+
+Can I fix the captions before they're burned in?
+
+Yes. You can edit the text of any caption in the editor, and the captions are burned into the MP4 when you download it.
+
+Can I add captions on a Chromebook?
+
+Yes, the studio runs in Chrome on a Chromebook. Making captions from your voice needs a recent version of Chrome; if it isn't available, type the captions instead. The Chromebook guide covers recording with sound.
+
+Make captions on your own computer, then burn them in or save an .srt for YouTube.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/convert-webm-to-mp4/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- WebM to MP4
+
+## How to convert WebM to MP4 for free, without uploading
+
+Updated 22 October 2026 · 7-minute read
+
+Chromebook screen recordings are WebM files, and so is the copy Clipchamp downloads when you record. This guide explains when you actually need an MP4 and the free ways to convert one, including a way that keeps the video on your computer.
+
+### The short answer
+
+Open Dotfik Studio in Chrome or Edge, choose Edit a video file instead and pick your WebM file. In the Background panel choose no background, pick a quality, and press Download MP4. You get an MP4 with H.264 video and AAC sound, made on your computer: nothing is uploaded, and it works on a Chromebook too.
+
+### What is a WebM file?
+
+WebM is "an open, royalty-free, media file format designed for the web", according to the WebM Project. Its video is compressed with the VP8 or VP9 codec and its sound with Vorbis or Opus (About WebM, checked 22 October 2026).
+
+You'll often meet it in screen recordings. Chromebooks save recordings as .webm files (Google's Chromebook help), and Clipchamp downloads "a copy of the recording (in WebM format)" (Microsoft support; both checked 22 October 2026). MP4 with H.264 video and AAC sound is the combination Microsoft recommends for PowerPoint, and the one Dotfik Studio exports.
+
+### Do you need to convert WebM to MP4?
+
+Not always. It depends on where the video is going:
+
+- YouTube: WebM is on YouTube's list of supported file formats, so you can upload it as it is (YouTube Help, checked 22 October 2026).
+
+- Google Drive: Drive lists WebM among the video types it can play, though Google adds that "Not all video types may work on all devices" (Google Drive Help, checked 22 October 2026).
+
+- PowerPoint: PowerPoint for Windows lists WebM, but PowerPoint for Mac's list doesn't, and Microsoft recommends ".mp4 files encoded with H.264 video and AAC audio" (Microsoft support, checked 22 October 2026).
+
+- Anywhere else: if an app, a phone or the person you're sending it to can't open the file, convert it.
+
+### How do you convert WebM to MP4 without uploading it?
+
+Dotfik Studio is a free video editor that runs in Chrome, Edge, Brave and other Chromium browsers on Windows, Mac, Chromebook and Linux computers. It opens the file on your computer and makes the MP4 there too, so the video never leaves it.
+
+- Open the studio. There's nothing to install and no account to create.
+
+- On the start screen, choose Edit a video file instead and pick your WebM file. On a Chromebook, recordings are in Downloads.
+
+- In the Video shape panel, pick the shape that matches your video, such as 16:9 for a widescreen recording. Under Quality, choose the resolution (720p to 4K) and frame rate.
+
+- In the Background panel, choose No background: the screen fills the frame, so the picture isn't framed by padding or a coloured backdrop.
+
+- Press Download MP4 and save it under a new name, so your original stays as it is.
+
+Erase the recording after downloading is on by default, so the copy in the page is erased once the MP4 is saved. Untick it to make another version first, such as a Short; closing the tab erases it anyway. Nothing is uploaded, and the site's security policy stops the page sending data to any other server: the privacy page explains how.
+
+### Can you trim or caption the video on the way?
+
+Yes. The converter is an editor, so you can tidy the video before you download it:
+
+- Trim the start and end, cut out a section, or speed up a slow part 2×, 4× or 8× (sped-up parts are silent).
+
+- Blur, pixelate or cover an email address or password for exactly as long as it's on screen.
+
+- Add zooms by hand, text, arrows, an intro title or your logo.
+
+- Type captions, show them in the video, or save an .srt file for YouTube. Making captions from your voice works on recordings made in the studio, not on files you open (how to add captions).
+
+- Make a vertical 9:16 version for Shorts, Reels or TikTok (the Shorts guide).
+
+### What other free ways are there?
+
+#### VLC
+
+VLC is a "free and open source cross-platform multimedia player" for Windows, Mac and Linux (VideoLAN), and it converts files too. VideoLAN's user guide gives these steps (both checked 22 October 2026):
+
+- Choose Media > Convert/Save.
+
+- Click Add, pick your WebM file and go on to the Convert window.
+
+- From the Profile list, choose a profile for MP4 with H.264 video.
+
+- Under Destination file, type a name ending in .mp4.
+
+- Click Start.
+
+#### ffmpeg
+
+For technical readers, ffmpeg is "a command line tool to convert multimedia files between formats" (About FFmpeg), licensed under the LGPL (FFmpeg legal page). In a terminal, in the folder that holds your video, run:
+
+ffmpeg -i recording.webm -c:v libx264 -c:a aac recording.mp4
+
+-c:v libx264 picks the H.264 encoder for the picture and -c:a aac the AAC encoder for the sound (ffmpeg documentation). Your copy of ffmpeg must include libx264, which is switched on when ffmpeg is built (codec documentation; all checked 22 October 2026).
+
+#### Online converters
+
+Many online converters work by uploading your video to their server, converting it there and sending it back. That may be fine for a holiday clip, but think twice when the recording shows emails, student names or work documents: read the site's privacy policy and how long it keeps files first. How to check an online tool is safe has a short checklist.
+
+| Method | Where it runs | Uploads your video? | Good for |
+
+| Dotfik Studio | Chrome, Edge or Brave on a computer, Chromebooks included | No | Converting plus trimming, cutting and captions |
+
+| VLC | An app for Windows, Mac and Linux | No | Converting on a computer that has VLC |
+
+| ffmpeg | The command line | No | Many files at once, with full control |
+
+| Online converters | A website | Many do | Quick conversions of videos that aren't private |
+
+### Does converting WebM to MP4 lose quality?
+
+Converting re-encodes the video: the VP8 or VP9 picture becomes H.264, and Vorbis or Opus sound becomes AAC. ffmpeg's documentation describes this as "re-encoding media streams". Each re-encode can lose a little detail, so convert from the original file rather than from a copy that has already been converted, and pick a resolution at least as high as the original's. Re-encoding also takes time: longer for long videos and on slower computers.
+
+### Questions people ask
+
+How do I convert WebM to MP4 on a Chromebook?
+
+Open Dotfik Studio in Chrome, choose Edit a video file instead, pick the recording from Downloads and press Download MP4. Everything happens on the Chromebook, and nothing is uploaded.
+
+Is there a free WebM to MP4 converter with no limit?
+
+Dotfik Studio is free, with no sign-up and no watermark, and it sets no time limit, though a very large file can be too big to open because the work happens in your computer's memory. VLC and ffmpeg are free too.
+
+Does YouTube accept WebM files?
+
+Yes. WebM is on YouTube's list of supported file formats, so you can upload a WebM recording without converting it.
+
+Is WebM better than MP4?
+
+Neither is better everywhere. WebM is an open, royalty-free format made for the web; MP4 with H.264 and AAC is what Microsoft recommends for PowerPoint. Use whichever the place you're sending it to accepts.
+
+Will my recording keep its sound after converting?
+
+Yes. Dotfik Studio keeps the sound and saves it as AAC in the MP4, and you can change its volume before you download.
+
+Turn a WebM recording into an MP4 on your own computer, and tidy it up on the way.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/is-online-screen-recorder-safe/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Online recorder safety
+
+## Is an online screen recorder safe? How to check
+
+Updated 22 October 2026 · 8-minute read
+
+Before you record your screen in a browser, it's fair to ask what the website can see and where your video ends up. Here's how browsers protect you, where the real risks are, and a quick check you can run on any recorder, ours included.
+
+### The short answer
+
+Mostly, yes. On your own computer, a website can't record your screen without asking you every time, and you choose exactly which tab, window or screen it gets. The bigger risk is what happens next: many online recorders upload your video to their servers. Check where the video goes, watch the network activity while you record, and remove extensions you don't trust.
+
+### Can a website record my screen without permission?
+
+Not on a computer you control. Websites record the screen through a browser feature that, in the words of MDN's developer guide, "prompts the user to select and grant permission to capture the contents of a display or portion thereof (such as a window)". Browsers must follow strict rules for it (MDN: getDisplayMedia(), checked 22 October 2026):
+
+- It asks every time. "The go-ahead permission to use getDisplayMedia() cannot be persisted for reuse. The user must be prompted for permission every time."
+
+- You have to act first. "The user has to interact with the page or a UI element in order for this feature to work", so a page can't start capturing the moment it loads.
+
+- You choose what to share. The browser's own picker offers tabs, windows and screens, and MDN notes that "web applications can't force the user to share specific content" by narrowing that list.
+
+- You can see it's on. "While display capture is in effect, the machine which is sharing screen contents will display some form of indicator so the user is aware that sharing is taking place" (MDN: Using the Screen Capture API).
+
+There are two exceptions worth knowing. On a school or work Chromebook, a Chrome policy lets the administrator allow specific web apps to "capture multiple surfaces at once without additional user permission" (Chrome Enterprise policy, checked 22 October 2026). And some websites use "session recording" tools that replay what you did on their own pages. Microsoft's documentation for one of them, Clarity, says these "aren't actual recordings of the user experience, but rather a step-by-step visual reconstructions" built from the page and your scrolls, clicks and taps (Microsoft Learn, checked 22 October 2026). They show what you did on that site, not a video of your screen.
+
+### How do I control camera, microphone and screen access?
+
+When a site asks for your camera or microphone, Chrome offers Allow while visiting the site, Allow this time or Never allow. To change your mind later:
+
+- Select View site information, to the left of the web address, then Site settings, and change the permission (Chrome Help).
+
+- Or open Chrome's menu and go to Settings > Privacy and security > Site settings, choose Camera or Microphone, and remove sites you no longer use (Chrome Help, checked 22 October 2026).
+
+Screen sharing has no saved permission to remove, because the browser asks every time. Your computer has its own switches too. On a Chromebook, Settings > Privacy and security > Privacy controls has Camera access and Microphone access; turning one off "blocks access on all levels and services" (Google). On a Mac, System Settings > Privacy & Security > Screen & System Audio Recording lists the apps allowed to record your screen, and you can turn each one off (Apple, checked 22 October 2026).
+
+### What can go wrong with an online screen recorder?
+
+- Your video goes to someone else's servers. Recorders with share links store your video online, and their settings decide who can watch. Loom, for example, makes new videos Public, viewable with "no login or Loom account" required, unless workspace admins change the default (Loom help, checked 22 October 2026). Apple's warning applies to any recorder you allow: "any information they collect is governed by their terms and privacy policies".
+
+- Your account becomes a record. Signing up gives a company your email address and a library of your recordings. Delete the ones you no longer need.
+
+- Extensions can see a lot. An extension with access to "your data on all the websites you visit" can "read, request or modify data from every page you visit (bank account, Facebook)". As Google puts it, "The warning doesn't mean the app is dangerous, just that it can be" (Chrome Web Store Help, checked 22 October 2026).
+
+- You show more than you meant to. MDN calls this the largest potential issue: "users inadvertently sharing content they did not wish to share", such as a background window or a password manager. Sharing one tab instead of the whole screen is "better for privacy", in Chrome's words (Chrome for Developers).
+
+### A 2-minute safety check for any screen recorder
+
+- Find out where the video goes. Look on the recorder's privacy page for words like "upload", "cloud" or "share link". If it makes share links, your video is stored online.
+
+- Share a tab or a window, not your whole screen, and close anything private first.
+
+- Watch the network. Press Ctrl Shift J (Command Option J on a Mac) to open Chrome DevTools, then click the Network tab. "So long as you've got DevTools open, it will record network activity" (Chrome DevTools docs, checked 22 October 2026). Tick Preserve log so the list survives a page reload, then record for 30 seconds. A recorder that uploads as you go will keep adding requests while you record. It's a rough check, not proof, and school or work devices may have DevTools turned off by policy.
+
+- Check your extensions. Open Chrome's menu, then Extensions > Manage extensions. Remove the ones you don't use. For the rest, set site access to When you select the extension where you can (Chrome Web Store Help).
+
+- Tidy up afterwards. Remove camera and microphone access you no longer need, and blur anything private in the video before you share it.
+
+### How does Dotfik Studio handle your recording?
+
+- Recording, editing and the MP4 export all happen in your browser, on your computer. Nothing is uploaded.
+
+- The recording lives in the tab's memory. It's erased after you download it (the Erase the recording after downloading switch is on by default; untick it to make another version first), when you press Delete, and always when you close the tab.
+
+- There are no accounts, no analytics and no tracking, and the site's security policy (CSP) stops the page from sending data to any other server.
+
+- Captions made from your voice come from your browser's on-device speech recognition, so your voice isn't sent to an online service.
+
+- The optional Chrome extension runs only while a recording runs, has no internet access, and never reads password fields.
+
+You don't have to take our word for it: run the network check while you record in the studio. You may see the page load its own files from this website, but not your recording going anywhere. Once you've downloaded the MP4, share it with the same care as any other video. The privacy page has the details.
+
+### Can websites detect screen recording?
+
+When one page or app captures another through the browser, the captured page isn't told. A W3C draft on screen capture describes this default plainly: the captured page "does not know that it is being captured; let alone by whom" (W3C Capture Handle draft, checked 22 October 2026).
+
+Phone apps are different. From Android 15, apps can "detect that they are being recorded", for example to warn you during a sensitive step (Android Developers), and iPhone and iPad apps can check "whether a scene is currently being mirrored or recorded" (Apple). Protected films can also come out black: on Apple devices, the system leaves video protected with FairPlay Streaming out of screen recordings (Apple, checked 22 October 2026).
+
+### Questions people ask
+
+Can a screen recorder spy on me?
+
+A website can only record what you pick in the browser's own picker, after asking. Installed apps and extensions can see more, depending on the permissions you give them; on a Mac, an app needs your permission under Screen & System Audio Recording before it can record the screen.
+
+Are Loom videos private?
+
+Only if you set them to be. Loom's help centre says new videos are Public, so anyone with the link can watch without logging in, unless workspace admins change the default; you can limit a video to your workspace or to people you add. More in our Loom comparison.
+
+How do I know if my screen is being recorded?
+
+When a website captures your screen, the browser shows an indicator while sharing is on. On a Mac, you can also check which apps are allowed under Screen & System Audio Recording in Privacy & Security.
+
+Is it safe to record my face with an online recorder?
+
+It depends on where the video goes. If the recorder uploads, your face is stored on its servers. Dotfik Studio keeps your camera and screen recording on your computer, erases it from the page after download by default and always when the tab closes; see how to record your screen and face.
+
+Can my school see my screen on a Chromebook?
+
+On a Chromebook your school manages, its administrator sets the browser's policies, including one that can let approved web apps capture screens without asking. If you're unsure, ask your school's IT team what's switched on.
+
+Try a screen recorder that keeps everything on your computer, then check it yourself.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/record-presentation-with-face/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Presentations
+
+## How to record a presentation with your face
+
+Updated 22 October 2026 · 6-minute read
+
+A recorded presentation with your face beside the slides feels much closer to a real talk than slides with a voice-over. This guide shows the free way to do it for Google Slides, PowerPoint and Canva, and what each app's own recorder offers.
+
+### The short answer
+
+Open your slides, start the slideshow, and record that tab or your screen with a screen recorder that adds your camera. In Dotfik Studio, free in Chrome or Edge: pick your camera and microphone, share the slides, press Start recording and present. Afterwards, choose a bubble or a split screen and download an MP4. There's no sign-up and no watermark.
+
+### How do you record a presentation with your face?
+
+The method is the same for any slides: present them on your screen and record it with your camera on.
+
+- Open your presentation: Google Slides, Canva or PowerPoint for the web in Chrome or Edge, or the PowerPoint app.
+
+- Open the studio in another tab and choose your camera and microphone.
+
+- Choose what to share. For slides in a browser, pick their tab: only that tab is recorded, so your other tabs, apps and notifications stay out of the video. For the PowerPoint app, share your screen (see the PowerPoint section below).
+
+- If your slides play videos with sound, turn on Record computer sound and tick the audio switch in the browser's sharing window: Also share tab audio for a tab, Also share system audio for a screen.
+
+- Press Start recording, go to your slides, start the slideshow and present. A small floating bubble shows your camera while you talk.
+
+- Stop. Pick a layout and a shape, trim the start and end, and download the MP4.
+
+Your camera is recorded separately, so you decide afterwards whether it floats over the slides as a Bubble or sits beside them in a Split layout. The screen and face guide explains each layout.
+
+### How do you record yourself presenting Google Slides?
+
+With Dotfik Studio, open the presentation in Chrome or Edge and share its tab in the studio. Press Start recording, click Slideshow and present. Press Esc to leave the slideshow (Google, checked 22 October 2026), then stop the recording.
+
+Google Slides also has its own recorder. On 20 August 2026, Google announced a Record button on the right of Slides, powered by Google Vids: choose Record video, then Camera & Screen to record yourself and your slides. You then edit and share the video in Google Vids. It works only in Chrome and Edge. Google's announcement lists personal Google accounts as well as Workspace ones, but its help page says it "may only be available on certain work or school accounts" (announcement, help page, checked 22 October 2026).
+
+The older Slides recording has moved to View, then Slides Recording, according to the same announcement. It has a 30-minute limit per recording and saves to a My Drive folder called Slides recordings (Google, checked 22 October 2026).
+
+### How do you record a PowerPoint with your face?
+
+In PowerPoint for Microsoft 365, the Record tab can record you with your slides. You can turn your camera and microphone on or off, your speaker notes appear as text at the top of the screen like a teleprompter, and you can export the result as a video. PowerPoint for the web doesn't support recording a slide show (Microsoft support, checked 22 October 2026).
+
+With Dotfik Studio, the tidiest way is PowerPoint for the web: present in its browser tab and share that tab, so only the slides are recorded. With the PowerPoint app, share your entire screen, press Start recording, then start the slide show with From Beginning (Microsoft, checked 22 October 2026). The floating camera bubble stays on top of everything, so in a whole-screen recording it can show up over your slides: move it to a second display if you have one. Sound from the whole screen works in Chrome on Windows; on a Mac it needs Chrome 141 or newer on macOS 14.2 or newer, as the Mac guide explains.
+
+### How do you record a presentation on Canva?
+
+Canva's own recorder is in the editor: select Present, then Present and record, Next and Go to recording studio. Canva says it works only when you use Canva on a computer, supports one recording per design, and keeps your recordings in Uploads. A public view link is created automatically, even if you don't save the recording, and exporting long recordings isn't supported, so Canva suggests sharing a link instead (Canva Help, checked 22 October 2026).
+
+If you'd rather have an MP4 file, including for a long talk, use Dotfik Studio: open the design in Chrome or Edge, share its tab, press Start recording and click Present. Nothing is uploaded: the video is made on your computer.
+
+### Tips for a better presentation recording
+
+- Match the shape to your slides. Choose 16:9 or 4:3 in Dotfik Studio so the slides fill the frame. Google Slides shows the size under File, then Page setup (Google), and PowerPoint under Design, then Slide Size, where 16:9 is the default for new presentations (Microsoft, both checked 22 October 2026).
+
+- Keep your notes off the recording. With two screens, share the one with the slides and keep your notes on the other. PowerPoint's Presenter View shows "the current slide, the next slide, and your speaker notes" (Microsoft), and Google Slides has Presenter view in the menu next to Slideshow (Google, both checked 22 October 2026).
+
+- Use a split layout for long talks. Split puts you beside the slides instead of over them, so you never hide a chart or a line of text.
+
+- Cut the pauses. Cut the pauses finds long pauses and cuts them in one click, and Even out my voice keeps your volume steady.
+
+- Add captions. They help anyone watching with the sound off; see how to add captions.
+
+- Record in sections. A few short takes are easier to redo than one long one.
+
+### Questions people ask
+
+Can I record a presentation on a Chromebook?
+
+Yes. Open your slides in Chrome, open the studio in another tab, share the slides tab with your camera on and download an MP4. The Chromebook's built-in recorder can also show your camera with its Front Camera switch (Google, checked 22 October 2026); the Chromebook guide covers both.
+
+Can I record a presentation without showing my face?
+
+Yes. Choose No camera before you record, or pick the Screen layout afterwards. Your voice and your slides stay in the video.
+
+Is there a time limit?
+
+Dotfik Studio sets no fixed limit, but the recording is kept in your computer's memory, so an hour or more needs plenty of free memory. Google's older Slides recording has a 30-minute limit per recording (Google, checked 22 October 2026).
+
+How do I share the recording with my class?
+
+Download the MP4 and upload it wherever your class is, such as Google Classroom, Google Drive or YouTube. Dotfik Studio has no share links: the video is a file on your computer.
+
+Will videos inside my slides have sound in the recording?
+
+Yes, if you turn on Record computer sound and tick the audio switch when you share. For a tab, the switch is Also share tab audio, which works on every system.
+
+Present your slides as usual and record yourself with them, free, in your browser.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/record-screen-and-face/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Screen and face
+
+## How to record your screen and your face at the same time
+
+Updated 22 October 2026 · 7-minute read
+
+A tutorial, a lesson or a product demo feels more personal when people can see you talking. This guide shows the free way to record your screen with your face in the corner, on Windows, Mac, Chromebook or Linux, without installing anything.
+
+### The short answer
+
+Use a screen recorder that records your screen and your webcam together. Dotfik Studio does it free in Chrome or Edge: open the studio, pick your camera and microphone, choose the screen to share and press Start recording. Afterwards you can move or resize your face, or switch to a split screen, then download an MP4. There is no sign-up and no watermark.
+
+### What you need
+
+- A computer with Chrome, Edge, Brave or another Chromium browser. Safari, Firefox and phones aren't supported yet.
+
+- A webcam: the one built into your laptop is fine.
+
+- A microphone. A headset or a USB microphone sounds clearer than a laptop's built-in one, but any will do.
+
+### How to record your screen and face with Dotfik Studio
+
+- Open Dotfik Studio in your browser. Nothing is installed and you don't need an account.
+
+- Under Camera and microphone, choose your camera and your microphone. Your browser asks for permission the first time; choose Allow. You'll see yourself in the preview.
+
+- Choose what to share: your whole screen, one window, or a single browser tab. Your browser shows its own sharing window for this, so you always see exactly what is recorded. If you want the sound from your computer as well, turn on Record computer sound and tick the audio switch in that window.
+
+- Pick a countdown (3, 5 or 10 seconds, or none) and press Start recording. A small floating bubble shows your camera while you talk, so you can keep an eye on your framing.
+
+- Pause whenever you need to, then stop. The editor opens straight away.
+
+- In the editor, choose how your face appears (see the layouts below), pick a video shape, trim the start and end, and press download. You get an MP4 file, made on your computer.
+
+Your camera is recorded on its own, separately from the screen. That's why you can change its position, size and shape after recording instead of getting it right beforehand.
+
+### Which camera layout should you use?
+
+| Layout | What it looks like | Good for |
+
+| Bubble | Your face in a circle, rounded square or rounded rectangle. Drag it anywhere and resize it. | Software tutorials and demos where the screen matters most (16:9 for YouTube) |
+
+| Split screen | Screen and camera side by side, with the camera on any side. | Lessons and explainers where your face matters as much as the screen; vertical videos |
+
+| Screen | Only the screen, with your voice. | Faceless tutorials, or a take where the camera framing went wrong |
+
+| Camera | Only you, full frame. | A talking-head intro or a short message |
+
+The layout adapts when you change the video's shape. A bubble in the corner of a 16:9 YouTube video can become a split screen in a 9:16 version for Shorts or Reels, from the same recording. The guide to Shorts, Reels and TikTok shows how.
+
+### Can you do it with the tools already on your computer?
+
+Sometimes. Here is what each system includes, according to its maker:
+
+- Chromebook: the built-in screen recorder has a Front Camera switch that shows your camera while you record (Google's help page, checked 22 October 2026). Videos are saved as WebM files, and there's no editor. Our Chromebook guide covers both ways.
+
+- Windows 11: Clipchamp, Microsoft's video editor, can record your screen and camera together. Its webcam and screen recordings are "currently limited to 30 minutes" (Microsoft support, checked 22 October 2026). The Snipping Tool records the screen and sound only. See how to screen record on Windows.
+
+- Mac: the Screenshot tool (Shift Command 5) records the screen and your microphone. Its options include no camera setting (Apple's guide, checked 22 October 2026). See how to screen record on a Mac.
+
+A browser-based recorder works the same way on all of them, which helps if you switch between a school Chromebook and a home laptop.
+
+### How do YouTubers record their screen and themselves?
+
+There are two common approaches. One is an app that records the screen and camera together and then edits them. The other is OBS Studio, a free, open-source app for Windows, Mac and Linux (obsproject.com), where you build a scene with your screen and a camera box. OBS is powerful but takes some setting up, and it's built for recording and live streaming rather than editing, so the editing usually happens in a second program.
+
+Dotfik Studio sits in between: it records the screen, camera and voice in one take, then gives you the editing that tutorials usually need, such as zooming in on the important parts, cutting mistakes, removing long pauses and adding captions.
+
+### Tips for looking and sounding good
+
+- Light from the front. Sit facing a window or a lamp, not with one behind you.
+
+- Camera at eye level. Raise your laptop on a few books so the camera isn't looking up at you.
+
+- Quiet notifications. Turn on Do Not Disturb and close tabs with personal information before you share your screen.
+
+- Keep the noise down. Turn on Reduce background noise in the studio. In the editor, Even out my voice keeps the volume steady.
+
+- Record in short takes. A few short videos are easier to redo than one long one. If you do record in one go, Cut the pauses removes the long silences in one click.
+
+- Hide what shouldn't be seen. If an email address or a password appears, blur or cover that area in the editor for exactly as long as it's on screen.
+
+### Is it safe to record your face with an online recorder?
+
+It depends on where the video goes. Many online recorders upload your video to their servers. Dotfik Studio doesn't: the recording, the editing and the MP4 export all happen in your browser, on your computer, and the recording is erased from the page when you're done. The privacy page explains how, and how to check whether an online screen recorder is safe shows how to test any recorder yourself.
+
+### Questions people ask
+
+How do I record my screen and webcam at the same time on Windows 11?
+
+Open Dotfik Studio in Chrome or Edge, choose your camera and microphone, pick the screen to share and press Start recording. Clipchamp, which comes with Windows 11, can also do it, with a 30-minute limit per recording.
+
+Can I move my face to another corner after recording?
+
+Yes. Dotfik Studio records the camera separately, so in the editor you can drag the bubble anywhere, resize it, change its shape or switch to a split screen.
+
+Is there a free screen and face recorder without a watermark?
+
+Dotfik Studio is free, adds no watermark and needs no account. It runs in Chrome, Edge and other Chromium browsers on Windows, Mac, Chromebook and Linux computers.
+
+Can I record a tutorial without showing my face?
+
+Yes. Choose No camera before you record, or pick the Screen layout in the editor afterwards. Your voice and the screen stay in the video.
+
+Do I need to install an app or an extension?
+
+No. Recording your screen, camera and voice works in the browser on its own. The optional Chrome extension adds automatic zooms and click effects in the browser tabs you record.
+
+Your first screen and face recording takes less than a minute to start.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/screen-record-on-chromebook/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Chromebook
+
+## How to screen record on a Chromebook (with sound and your face)
+
+Updated 22 October 2026 · 8-minute read
+
+Every Chromebook has a screen recorder built in. This guide shows how to use it with sound and your camera, how to fix a recording that comes out silent, and the free way to edit it and save it as an MP4.
+
+### The short answer
+
+Press Shift + Ctrl + Show windows and choose Screen record. Under Settings, pick Device audio, Microphone or both, and turn on Front Camera to include your face. Stop with Search + Shift + X. The video is saved as a WebM file in Downloads; to edit it or make an MP4, open it in Dotfik Studio, a free browser editor.
+
+### How do you screen record on a Chromebook?
+
+The recorder is part of the screen capture tool. These steps follow Google's Chromebook help page (checked 22 October 2026):
+
+- Press Shift + Ctrl + Show windows. You can also select the time at the bottom right, then Screen capture.
+
+- In the bar at the bottom of the screen, select Screen record.
+
+- Choose what to record: the full screen, a partial screen or one window.
+
+- Select Settings to choose your sound and camera (see the next section).
+
+- Start recording. For the full screen, click anywhere. For a partial screen, drag to select the area, then choose Record video. For a window, select the window.
+
+- To stop, select Stop recording at the bottom right, or press Search + Shift + X.
+
+The recording is saved as a .webm file in your Downloads folder. To save somewhere else, open the tool, select Settings and choose a folder.
+
+### How do you record with audio and your face (facecam)?
+
+Before you start, select Settings in the capture bar. Google's page lists these choices:
+
+- Sound: Device audio (sound your Chromebook plays, such as a video), Microphone (your voice), or Device audio and microphone for both.
+
+- Your face: turn on Front Camera to record with your camera on.
+
+- Clicks and keys: turn on Show clicks and keys to show mouse clicks, touch gestures and keyboard shortcuts. To protect your privacy, it only shows key combinations that include a modifier key such as Ctrl, so ordinary typing isn't displayed.
+
+One catch: a partial-screen recording can also be saved as a GIF, and "GIFs don't capture audio or video input", so choose Record video when you want sound.
+
+### Why does my Chromebook screen recording have no sound?
+
+Work through these checks in order. They come from Google's help pages (all checked 22 October 2026).
+
+- Pick a sound setting. In the capture tool's Settings, choose Device audio for sound from the Chromebook, Microphone for your voice, or both.
+
+- Record a video, not a GIF. GIFs never have sound.
+
+- Unmute your microphone. Select the time at the bottom right, then Audio settings next to the volume slider. Under Input, raise the microphone slider, and select the microphone icon if it's muted. Settings > Device > Audio lets you choose the right microphone and test it (volume help).
+
+- Allow microphone access. In Settings > Privacy and security > Privacy controls, turn on Microphone access: when it's off, the microphone is blocked everywhere. If your Chromebook has a physical microphone switch, turn it on (privacy controls help).
+
+- Update your Chromebook. If your settings don't match the ones above, go to Settings > About ChromeOS > Check for updates (update help).
+
+- Recording in the browser? When Chrome asks what to share, the audio switch must be on: Also share tab audio for a tab, Also share system audio for the screen. Also check that Chrome hasn't blocked the microphone for the site, under Settings > Privacy and security > Site settings > Microphone (Chrome help).
+
+### Can you screen record on a school or work Chromebook?
+
+Usually, but not always. On a Chromebook that a school or employer manages, an administrator can turn recording off:
+
+- In the Google Admin console, an administrator can choose Do not allow users to take screenshots or video recordings, which stops the built-in recorder (Google's guide for administrators, checked 22 October 2026).
+
+- Chrome has a separate policy, Allow or deny screen capture. When it's set to deny, websites' requests to share the screen fail unless the administrator allows that site, so browser recorders, Dotfik Studio included, can't record either (Chrome Enterprise policy list, checked 22 October 2026).
+
+Both are deliberate choices by whoever manages the device. If recording is blocked, ask your teacher or IT team rather than looking for a way round it.
+
+### What does Dotfik Studio add on a Chromebook?
+
+The built-in recorder is quick, but it gives you a WebM file and no editor. Dotfik Studio is a free recorder and editor that runs in Chrome, so it works on a Chromebook with nothing to install and no account. Nothing is uploaded: recording, editing and the MP4 export all happen on your Chromebook.
+
+- Open the studio in Chrome.
+
+- Choose your camera and microphone (each is optional) and allow access when Chrome asks.
+
+- Choose what to share: a Chrome tab, a window or the whole screen. For the Chromebook's own sound, turn on Record computer sound and tick the audio switch in Chrome's sharing window: Also share tab audio for a tab, Also share system audio for a window or the screen.
+
+- Press Start recording. A small floating bubble shows your camera while you talk. Pause or stop when you're done.
+
+- Edit the video, then press Download MP4.
+
+What you get on top of the built-in tool:
+
+- Editing: trim the ends, cut out mistakes, speed up slow parts, and blur an email address or password for exactly as long as it's on screen.
+
+- Your face, your way: the camera is recorded separately, so afterwards you can choose a bubble, a split screen, only the camera or only the screen. See how to record your screen and face.
+
+- Zoom: add a zoom by hand at any moment. With the free Chrome extension, zooms, click ripples and key badges happen by themselves, but only for clicks inside the Chrome tabs you record. More in how to zoom in on a screen recording.
+
+- Captions: made from your voice by recent Chrome's on-device speech recognition, or typed by hand (how to add captions).
+
+- MP4: H.264 video with AAC sound, in 16:9 for YouTube or 9:16 for Shorts, up to 4K.
+
+The trade-off: until you download it, the recording is kept in memory, up to about 40 MB per minute at 1080p. If your Chromebook has little free memory, record in shorter takes.
+
+### How do you edit a screen recording on a Chromebook?
+
+Google's help page for the built-in recorder describes no editing tools. To edit a recording you've already made:
+
+- Open Dotfik Studio in Chrome.
+
+- On the start screen, choose Edit a video file instead and pick the .webm file from Downloads.
+
+- Trim it, cut out parts, add zooms by hand, blur private details or type captions.
+
+- Press Download MP4 and save it under a new name.
+
+The WebM to MP4 guide covers this in detail, including how to keep the video plain when you only want to convert it.
+
+Google also offers a Screencast app on Chromebooks. It records your screen with a transcript, stores recordings in Google Drive and has tools to trim, mute and add titles. Recording needs a supported device language, and administrators can turn it off (Google's Screencast guide, checked 22 October 2026).
+
+### Built-in recorder or Dotfik Studio: which should you use?
+
+| Feature | Built-in recorder | Dotfik Studio in Chrome |
+
+| What it records | Full screen, part of the screen or a window | Screen, window or a Chrome tab |
+
+| Sound | Device audio, microphone or both | Microphone and computer sound |
+
+| Your face | Front Camera, on while you record | Bubble, split screen or none, changeable after recording |
+
+| Clicks and keys | Shown while you record (key combos with modifier keys only) | With the extension, in Chrome tabs only |
+
+| Editing | None described by Google | Trim, cut, speed up, zoom, captions, blur |
+
+| File | WebM in Downloads | MP4 (H.264 and AAC) |
+
+Use the built-in recorder for a quick clip you'll share as it is, and Dotfik Studio when the video needs editing, captions or an MP4. Unsure about browser tools? Here's how to check an online recorder is safe.
+
+### Questions people ask
+
+Does the Chromebook screen recorder record audio?
+
+Yes, if you choose Device audio, Microphone or both under Settings before you start. GIF recordings never have sound.
+
+Where do screen recordings go on a Chromebook?
+
+They're saved as .webm files in your Downloads folder. You can pick another folder in the capture tool's Settings.
+
+How do I stop a screen recording on a Chromebook?
+
+Select Stop recording at the bottom right of the screen, or press Search + Shift + X.
+
+How do I convert a Chromebook recording to MP4?
+
+Open Dotfik Studio in Chrome, choose Edit a video file instead, pick the .webm file and press Download MP4. The WebM to MP4 guide has the details.
+
+Can I record only the Chromebook's sound, without my voice?
+
+Yes. In the built-in recorder, choose Device audio instead of Microphone. In Dotfik Studio, choose no microphone and turn on Record computer sound.
+
+Record, edit and download an MP4 on your Chromebook, without uploading anything.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/screen-record-on-mac/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Mac
+
+## How to screen record on a Mac with internal audio
+
+Updated 22 October 2026 · 8-minute read
+
+Every Mac can record its screen with one keyboard shortcut. Sound is the catch: Apple's tools record your microphone, not the Mac's own audio. This guide covers the built-in way, why that sound goes missing, and how to record it without installing an audio driver.
+
+### The short answer
+
+Press Shift + Command + 5, choose the entire screen, a window or a portion, pick your microphone under Options and click Record. Stop with the Stop Recording button in the menu bar. Apple's tool records your voice, not the Mac's own sound. For that, use Dotfik Studio in Chrome 141 or newer on macOS 14.2 or newer, with no audio driver to install.
+
+### How do you screen record on a Mac?
+
+The Mac's built-in Screenshot tool does it. These steps follow Apple's guide (checked 22 October 2026):
+
+- Press Shift + Command + 5.
+
+- In the toolbar, choose Record the entire screen, Record a window or Record a portion of the screen. For a portion, drag the frame or its edges.
+
+- Click Options and pick your Microphone so it has a tick; None turns sound off. Here you can also choose where to save, set a timer and show the mouse pointer or clicks.
+
+- Click Record. For a window, move the pointer over it and click.
+
+- To stop, click the Stop Recording button in the menu bar.
+
+The video is saved as a .mov file whose name starts with "Screen Recording", followed by the date and time. With Show Floating Thumbnail on, click the thumbnail in the corner to trim it.
+
+### Can you use QuickTime Player instead?
+
+Yes, but it leads to the same place. In QuickTime Player, choose File > New Screen Recording and the same Screenshot tools open, with the same Options menu and Record button (Apple's QuickTime Player guide, checked 22 October 2026). So it has the same sound limits.
+
+### Can a Mac screen record internal audio?
+
+Not with Apple's own tools, going by Apple's documentation. The only sound choice in Screenshot's Options is a microphone, and Apple's guide says nothing about recording the sound the Mac itself plays. A video, a game or an alert sound won't be in the recording, apart from whatever your microphone picks up from the speakers.
+
+There are two ways round it: a virtual audio driver such as BlackHole, the long-standing workaround, or recording in Chrome, which can now capture the Mac's sound directly.
+
+### How do you record a Mac's internal audio without BlackHole?
+
+From version 141, Chrome on macOS 14.2 or newer offers a "share system audio" switch when you share a window or the entire screen. Before that, only Chrome on Windows and ChromeOS could record system sound along with the screen (tested by addpipe, published 19 February 2026, checked 22 October 2026). The macOS version matters because, as the same article notes, Apple only let third-party apps capture system audio from macOS 14.2. Dotfik Studio runs in Chrome, so it can use that switch:
+
+- Check your versions. In Chrome, open the three-dot More menu > Help > About Google Chrome, and select Relaunch if an update is waiting (Chrome Help). On the Mac, choose Apple menu > About This Mac; macOS Sonoma is version 14 (Apple Support). Both checked 22 October 2026.
+
+- Open the studio in Chrome, choose your microphone and, if you like, your camera, and turn on Record computer sound.
+
+- Choose a window or your entire screen, and turn on the share system audio switch in Chrome's picker.
+
+- Press Start recording. When you stop, edit the video and press Download MP4.
+
+On older versions, share a Chrome tab instead and tick Also share tab audio. You get that tab's sound, which works on every system and is enough for a video or web app playing in the tab.
+
+### What about BlackHole?
+
+BlackHole, from Existential Audio, is "a modern macOS virtual audio loopback driver": it passes sound from one app to another. It's open source under the GPL-3.0 licence (BlackHole on GitHub), and its download page asks for an optional donation (both checked 22 October 2026).
+
+The usual setup: install the driver, then in Audio MIDI Setup create a Multi-Output Device so you still hear the sound while it goes to BlackHole (Apple's Audio MIDI Setup guide), make it your sound output, and pick BlackHole as the microphone in Screenshot's Options. It works with any app, not just a browser. The costs are setup and a few quirks: BlackHole's notes say "macOS does not support changing the volume of a Multi-Output device", and recording your voice too means combining your microphone and BlackHole into an aggregate device (Apple Support; both checked 22 October 2026).
+
+### How do you let Chrome record the screen on a Mac?
+
+macOS asks before an app can record your screen. If you chose Don't Allow, go to Apple menu > System Settings, click Privacy & Security, then Screen & System Audio Recording, and turn on Google Chrome (Apple's guide). The microphone has its own list under Privacy & Security > Microphone (Apple's guide; both checked 22 October 2026). After changing either, quit Chrome and open it again.
+
+### Why is there no sound on my Mac screen recording?
+
+- No microphone was chosen. In Screenshot's Options, pick your microphone so it has a tick.
+
+- You expected the Mac's own sound. Apple's tools record the microphone only. Use Chrome as described above, or BlackHole.
+
+- The audio switch in Chrome's picker was off. It has to be on when you share. Dotfik Studio notices and asks you to choose what to share again and tick it.
+
+- Chrome or macOS is too old. System sound from a window or the screen needs Chrome 141 or newer on macOS 14.2 or newer. Update, or share a tab instead.
+
+- Chrome isn't allowed to record. Check Screen & System Audio Recording and Microphone in Privacy & Security, then quit and reopen Chrome.
+
+### How do you edit a Mac screen recording or make it an MP4?
+
+For a quick trim, Apple's tools are enough: click the floating thumbnail after recording, or open the file in QuickTime Player, choose Edit > Trim and drag the yellow handles (Apple's trimming guide). QuickTime saves .mov files, though: "QuickTime Player doesn't export movies as MP4 videos" (Apple's export guide; both checked 22 October 2026).
+
+For an MP4, or more editing, open the .mov in Dotfik Studio: choose Edit a video file instead on the start screen, cut out mistakes, add zooms by hand, blur private details or type captions, then press Download MP4. The conversion guide walks through it.
+
+### Which way should you record a Mac's screen?
+
+| Way | Your voice | The Mac's own sound | Your camera | Editing |
+
+| Screenshot tool or QuickTime | Yes | Not in Apple's options | No camera option | Trim (thumbnail or QuickTime) |
+
+| Screenshot tool with BlackHole | Needs an aggregate device | Yes, after setup | No camera option | Trim (thumbnail or QuickTime) |
+
+| Dotfik Studio in Chrome | Yes | Yes on Chrome 141+ and macOS 14.2+, or a tab's sound | Yes | Zoom, captions, cuts, blur |
+
+In Dotfik Studio, you can add a zoom by hand anywhere in a recording. With the free Chrome extension, zooms, click effects and key badges happen automatically, but only in the Chrome tabs you record, not in desktop apps; how to zoom in on a screen recording explains both. Comparing paid Mac apps too? Here's how Dotfik Studio compares with Screen Studio.
+
+### Questions people ask
+
+Does QuickTime record internal audio?
+
+Not according to Apple's guides. File > New Screen Recording opens the Screenshot tools, whose only sound option is a microphone.
+
+Where do screen recordings go on a Mac?
+
+Wherever Save to points in Screenshot's Options. Each one is a .mov file named Screen Recording with the date and time.
+
+How do I stop a screen recording on a Mac?
+
+Click the Stop Recording button in the menu bar at the top of the screen.
+
+Can I record my screen and face at the same time on a Mac?
+
+Apple's Screenshot tool has no camera option. Dotfik Studio records your screen, camera and microphone together in Chrome: see how to record your screen and face.
+
+How do I record only part of the screen on a Mac?
+
+Press Shift + Command + 5, choose Record a portion of the screen, then drag the frame or its edges around the area you want before you click Record.
+
+Record your Mac's screen with your voice and its own sound, in Chrome, with no driver to install.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/screen-record-on-windows/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Windows
+
+## How to screen record on Windows 11 and 10 with audio
+
+Updated 22 October 2026 · 8-minute read
+
+Windows has more than one screen recorder built in, and each records something different. Here's how to use each one with sound, including your PC's own audio and your camera, and what to do when a recording comes out silent.
+
+### The short answer
+
+On Windows 11, press Windows + Shift + R to record with the Snipping Tool, and switch its sound on before you press Start. To include your camera, use Clipchamp (30 minutes per recording) or Dotfik Studio in Edge or Chrome, where you tick Also share system audio for the PC's sound. On Windows 10, use Game Bar, Clipchamp or a browser recorder.
+
+### How do you screen record on Windows 11 with the Snipping Tool?
+
+- Press Windows + Shift + R (the Windows logo key). Or open Snipping Tool, select Record, then New.
+
+- Drag to select the part of the screen you want to record.
+
+- In the recording bar, turn on the sound you need: your microphone for a voice-over, your PC's audio for sound from apps and videos.
+
+- Select Start, then Stop when you've finished.
+
+- Save the video, or select Edit in Clipchamp to edit it.
+
+The steps come from Microsoft's Snipping Tool guide, and recordings are saved in Videos > Screen Recordings (Windows Learning Center; both checked 22 October 2026). Microsoft doesn't describe a camera option: the Snipping Tool records the screen and sound only.
+
+### Does Windows 10 have a screen recorder?
+
+Not in the Snipping Tool, going by Microsoft: its guide describes screen recording only for Windows 11, and the Windows 10 section covers screenshots alone (checked 22 October 2026). On Windows 10 you can use Xbox Game Bar, which Microsoft documents for Windows 10 and 11, the Clipchamp app from the Microsoft Store, or a browser recorder such as Dotfik Studio, which works the same on both.
+
+### How do you record your screen with Xbox Game Bar?
+
+Game Bar is made for games, but it records apps too.
+
+- Open the game or app you want to record.
+
+- Press Windows + Alt + R to start, and the same keys again to stop. Or press Windows + G and choose Capture > Start recording.
+
+- Find the MP4 in Videos > Captures.
+
+For your PC's sound, open Game Bar's settings and set Audio to record to All; Game only records just the game. Windows + Alt + M turns your microphone on or off while you record, and each clip stops at the maximum length you choose in Settings > Gaming > Captures (Xbox Support: capture settings and Game Bar widgets; Microsoft's Game Bar recording guide; all checked 22 October 2026).
+
+If Game Bar won't record an app, press Windows + G while the app is open and select Enable gaming features for this app (Xbox troubleshooting guide, checked 22 October 2026). It won't record the Windows desktop or File Explorer, though. There it shows "Gaming features aren't available for the Windows desktop or File Explorer", as quoted in a Microsoft Q&A thread (checked 22 October 2026). For those, use one of the other tools.
+
+### How do you record your screen and webcam on Windows 11?
+
+Clipchamp, Microsoft's video editor, records your screen and camera together. It might already be installed on Windows 11; if not, it's in the Microsoft Store (Microsoft support, checked 22 October 2026). Two limits matter. Webcam and screen recordings are "currently limited to 30 minutes" (Microsoft support, checked 22 October 2026). And in the personal version, "Audio recording only works with screen recording a browser tab": your microphone is recorded, but the PC's sound only comes from a browser tab (Clipchamp recording guide, checked 22 October 2026).
+
+Dotfik Studio does it in the browser, with no fixed time limit and nothing uploaded. Microsoft Edge is "the default web browser in Windows and a core component of the operating system" (Microsoft support, checked 22 October 2026), so there's nothing to install. Chrome and Brave work too.
+
+- Open the studio in Edge or Chrome. There's no account to create.
+
+- Choose your camera and microphone, and allow access when the browser asks.
+
+- Choose what to share: a window, a browser tab or your whole screen. For the PC's sound, turn on Record computer sound and tick the audio switch in the browser's sharing window: Also share tab audio for a tab, Also share system audio for a window or the screen.
+
+- Press Start recording. When you stop, edit the video and press Download MP4.
+
+The camera is recorded separately, so you can move it or switch to a split screen afterwards (see how to record your screen and face). You can add zooms by hand anywhere in the video. With the free browser extension, zooms and click effects happen automatically, but only for clicks in the browser tabs you record, not in desktop apps. Long takes need free memory: up to about 40 MB per minute at 1080p.
+
+### Which Windows screen recorder should you use?
+
+| Tool | Your camera | PC sound | Editing | Length limit |
+
+| Snipping Tool | No camera option | Yes, plus your microphone | Hands over to Clipchamp | None stated by Microsoft |
+
+| Xbox Game Bar | No camera option | Yes, with Audio to record set to All | Gallery to view clips | The maximum you set |
+
+| Clipchamp | Yes | Only from a browser tab (personal version) | Full video editor | 30 minutes per recording |
+
+| Dotfik Studio | Yes, layout changeable later | Yes, with Also share system audio | Zoom, captions, cuts, blur | No fixed limit (uses memory) |
+
+For a quick clip of part of the screen, use the Snipping Tool. For a game, use Game Bar. For a tutorial with your face, or anything that needs zooms and captions, use Clipchamp or Dotfik Studio. On a Mac or a Chromebook? See how to screen record on a Mac or on a Chromebook.
+
+### Why does my Snipping Tool recorded video have no sound?
+
+Usually because the sound was never switched on. Check these in order:
+
+- Turn the sound on before you record. Snipping Tool records sound only when you switch it on in the recording bar. Microsoft added "optionally recording your PC audio and voice overs using a microphone" in version 11.2307.44.0, and the app's settings set the default for new recordings (Windows Insider blog, 31 August 2023, checked 22 October 2026).
+
+- Update the Snipping Tool. If you see no sound options, your copy is probably older than that. Open Microsoft Store and check for updates (Microsoft support, checked 22 October 2026).
+
+- Let apps use the microphone. Go to Start > Settings > Privacy & security > Microphone and turn on Microphone access, Let apps access your microphone and, for browsers such as Chrome, Let desktop apps access your microphone. On Windows 10 it's Start > Settings > Privacy > Microphone (Microsoft support, checked 22 October 2026).
+
+- In Game Bar, choose All. Set Audio to record to All, and make sure the system and microphone sliders in Settings > Gaming > Captures aren't at 0.
+
+- In Clipchamp's personal version, share a browser tab when you need the PC's sound.
+
+- In a browser recorder, tick the audio switch. If Also share system audio wasn't ticked, Dotfik Studio asks you to choose what to share again and tick it.
+
+### Questions people ask
+
+How do I record my screen on a PC?
+
+On Windows 11, press Windows + Shift + R to use the Snipping Tool. On any Windows PC, you can also open Dotfik Studio in Edge or Chrome and record your screen, camera and sound.
+
+How can I record my screen without Game Bar?
+
+Use the Snipping Tool on Windows 11, Clipchamp, or a browser recorder such as Dotfik Studio. Unlike Game Bar, they can record the desktop and File Explorer.
+
+Where do screen recordings go on Windows?
+
+Snipping Tool saves them in Videos > Screen Recordings, and Game Bar in Videos > Captures. A browser recorder such as Dotfik Studio saves the MP4 wherever your browser puts downloads.
+
+Can Windows record my screen and face at the same time?
+
+Yes, with Clipchamp (up to 30 minutes per recording) or Dotfik Studio. Microsoft describes no camera option in the Snipping Tool or Game Bar. See how to record your screen and face.
+
+Is there a time limit on screen recording in Windows?
+
+Clipchamp stops at 30 minutes, and Game Bar at the maximum length set in its capture settings. Microsoft doesn't state a limit for the Snipping Tool, and Dotfik Studio has no fixed limit, though long takes need free memory.
+
+Record your screen, camera and PC sound in Edge or Chrome, with nothing to install or upload.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/screen-recording-to-shorts/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Shorts, Reels and TikTok
+
+## How to turn a screen recording into a YouTube Short
+
+Updated 22 October 2026 · 7-minute read
+
+Shorts, Reels and TikTok videos are tall and watched on phones, while a screen recording is wide. This guide shows how to turn one into the other for free, keep the screen readable and stay within each app's limits.
+
+### The short answer
+
+Change the video's shape to 9:16 (1080 × 1920 pixels at 1080p), put your camera above or below the screen, and zoom in so text stays readable on a phone. YouTube counts square or vertical videos up to three minutes long as Shorts (checked 22 October 2026). Dotfik Studio does all of this free in Chrome or Edge, with no watermark.
+
+### How do you turn a screen recording into a Short?
+
+You need three things: a tall 9:16 frame, a sensible place for your face, and zooms so the screen can be read. With Dotfik Studio it all happens in the browser:
+
+- Record your screen in the studio as usual, with your camera on if you want to appear. Already have a video? See the section on existing videos below.
+
+- In the editor, choose the 9:16 shape.
+
+- Pick a camera layout that suits a tall frame (see the layouts below).
+
+- Add zooms on everything people need to read: automatically from your clicks in browser tabs with the free extension, or by hand with Add zoom here.
+
+- Trim the start and end, cut the slow parts, and add captions.
+
+- Choose 1080p and 30 or 60 fps, then download the MP4. At 1080p, a 9:16 video is 1080 × 1920 pixels.
+
+- Upload it. On a computer, sign in to YouTube Studio, click CREATE, then Upload videos (YouTube Help, checked 22 October 2026).
+
+### How long can Shorts, Reels and TikTok videos be?
+
+Here's what each platform's own help pages say (checked 22 October 2026):
+
+| Platform | Length | Shape and size |
+
+| YouTube Shorts | Up to 3 minutes (YouTube) | Square or vertical |
+
+| Instagram Reels | Up to 20 minutes, but reels over 3 minutes "won't be recommended to new audiences" (Instagram) | Between 1.91:1 and 9:16, with at least 720 pixels and 30 fps (Instagram) |
+
+| TikTok, uploading in a web browser | Up to 30 minutes (TikTok) | 720 × 1280 or higher, MP4 or WebM, under 10 GB |
+
+One more YouTube rule matters if you add music: Shorts longer than one minute with an active Content ID claim are blocked (YouTube Help, checked 22 October 2026). Only use music you have the rights to.
+
+### Which camera layout works best for a vertical video?
+
+Dotfik Studio records your camera separately from the screen, so you choose the layout after recording, and it adapts when you change the shape.
+
+- Split, with your camera at the top or bottom: the screen and your face each get their own part of the tall frame, so you never cover the screen. A good default when you talk as much as you show.
+
+- Bubble: your face in a circle, rounded square or rounded rectangle over the screen. Drag it where it hides nothing important, and resize it.
+
+- Screen: only the screen and your voice, for a faceless Short.
+
+- Camera: only you, full frame, for a talking-head Short.
+
+The guide to recording your screen and face covers the layouts in more detail.
+
+### How do you keep the screen readable on a phone?
+
+A wide screen placed in a tall frame is only as wide as the phone, so text that was fine in a YouTube video can become tiny.
+
+- Zoom in, and stay zoomed. In a Short it's fine to spend most of the video zoomed in on the part that matters. The zoom guide shows both ways to add zooms.
+
+- Make text bigger before you record. In Chrome, Ctrl and + (⌘ and + on a Mac) makes everything on a page larger (Chrome Help, checked 22 October 2026). Sharing one tab or window instead of a large monitor helps too.
+
+- Keep important things away from the edges. Shorts, Reels and TikTok lay their buttons, your name and the post's text over the video, usually along the bottom and the right-hand side. Keep key details and captions towards the middle, and check the result on your own phone.
+
+### How do you make a YouTube video and a Short from one recording?
+
+You don't need to record twice.
+
+- Finish the 16:9 version for YouTube and press Download. In the download window, turn off Erase the recording after downloading, so the recording stays in the page.
+
+- Switch the shape to 9:16 and choose a layout for it, such as a split screen with your camera at the bottom.
+
+- Trim it to the best part and check the zooms.
+
+- Download again. The recording is erased when you close the tab anyway.
+
+### How do you make a Short from a video you already have?
+
+On the studio's start screen, choose Edit a video file instead and open the video: a landscape tutorial, a Mac .mov or a Chromebook WebM recording, for example. Pick 9:16, add zooms by hand, trim it to the part you want and download an MP4. Type the captions for a file you open: making captions from your voice works on the microphone sound of a recording made in the studio.
+
+If the video is already on YouTube, YouTube Studio can cut a Short from it too: open Content, select the video, choose Clips and Shorts, then Create clip or Short (YouTube Help, checked 22 October 2026).
+
+### Should a Short have captions?
+
+They're not required, but captions let people follow along with the sound off. Burned-in captions are part of the picture, so they appear on every app you post to. In Dotfik Studio, make captions from your voice or type them, then turn on Show captions in the video. The guide to adding captions has the details.
+
+### Questions people ask
+
+How do I turn a horizontal video into a vertical one?
+
+Change its frame to 9:16 in a video editor and decide what fills the extra height: a background, your camera in a split screen, or zooms on the screen. In Dotfik Studio, open the file with Edit a video file instead, choose 9:16 and download an MP4, free.
+
+Can I post the same vertical video to Shorts, Reels and TikTok?
+
+Yes: a 9:16 MP4 at 1080 × 1920 and 30 or 60 fps fits what all three ask for. Keep it to three minutes or less so it counts as a YouTube Short and Instagram can recommend it to new audiences (each platform's help pages, checked 22 October 2026).
+
+How do I make YouTube Shorts from existing videos on a PC?
+
+Open the video in the studio with Edit a video file instead, switch to 9:16, trim it and download an MP4, then upload it in YouTube Studio. If the video is already on YouTube, YouTube Studio's Clips and Shorts can cut a Short from it.
+
+What resolution should a YouTube Short be?
+
+1080 × 1920 pixels, which is 9:16 at 1080p, is a safe choice. TikTok asks for at least 720 × 1280, and Instagram for at least 720 pixels and 30 fps (their help pages, checked 22 October 2026).
+
+Can I make Shorts on a Chromebook?
+
+Yes. The studio runs in Chrome on a Chromebook, so you can record, switch to 9:16 and download an MP4 there. The Chromebook's own recordings are WebM files, which you can open with Edit a video file instead; see the Chromebook guide.
+
+Turn your next screen recording into a Short, free and with nothing to install.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/guides/zoom-in-on-screen-recording/
+Updated: 2026-10-22
+
+- Dotfik Studio
+- Guides
+- Zoom and clicks
+
+## How to zoom in on a screen recording (automatically or by hand)
+
+Updated 22 October 2026 · 8-minute read
+
+Zooms turn a wide, busy screen into something people can read, even on a phone. This guide shows how to zoom in on a screen recording automatically where you click, how to add zooms by hand to any recording, and how to show your clicks and make the cursor easy to follow.
+
+### The short answer
+
+Record your screen, then add the zooms in an editor. Dotfik Studio does both free in Chrome or Edge: with its free extension, it zooms in automatically where you click inside the browser tabs you record. For desktop apps, or a video you already have, press Add zoom here at any moment and adjust the zoom on the timeline. There's no sign-up and no watermark.
+
+### Why zoom in on a screen recording?
+
+A computer screen is wide and full of small text. In a small video player, or on a phone, a menu item or a line of code can shrink until nobody can read it. A zoom does two jobs: it makes the important part big enough to read, and it shows viewers where to look while you talk. A good zoom moves in just before the click that matters and back out once it's done, so nobody loses their place.
+
+### How do you zoom in automatically where you click?
+
+To zoom where you click, a recorder has to know where you clicked. A web page that records your screen only receives the picture, so Dotfik Studio uses a free browser extension to tell it where your pointer is and when you click. The limit, plainly: automatic zooms work only for clicks inside the browser tabs you record, in Chrome, Edge, Brave or another Chromium browser. The extension lives in web pages, so it can't see clicks in apps installed on your computer, such as a photo editor or a code editor.
+
+- Install the free extension. It takes about a minute, and the extension page has the steps.
+
+- Open the studio, choose your camera and microphone if you want them, and share the tab you're going to work in.
+
+- Record as usual. There's nothing special to do: just click normally.
+
+- Stop. In the editor's Zoom settings, make sure Zoom in automatically where I click is on. Your clicks become zooms on the timeline.
+
+- Play it back, fine-tune it with the settings below, and download the MP4.
+
+Three settings change how the automatic zooms feel:
+
+- Follow my pointer while zoomed in. The zoomed view glides along with your pointer. Turn it off and the view holds still on the spot you clicked, which is calmer while you fill in a form.
+
+- Zoom out when my pointer moves away. The view zooms back out when you move your pointer away, so viewers see where you're heading next.
+
+- Default zoom. The zoom level: how far the zooms go in. A gentle zoom keeps some of the page around the click; a strong one makes small text readable on a phone.
+
+### How do you add a zoom by hand?
+
+Adding zooms yourself works on any recording, with or without the extension. That includes recordings of desktop apps or your whole screen, and video files you open with Edit a video file instead on the studio's start screen, such as a Chromebook WebM or a Mac .mov recording.
+
+- In the editor, move the playhead to the moment you want to zoom in.
+
+- Press Add zoom here. A zoom appears on the timeline.
+
+- To zoom in on a particular spot, select the zoom, press Aim at a spot I choose and click that spot in the preview.
+
+- Drag the zoom along the timeline to move it, or drag its edges to change when it starts and ends. Select it to change its Zoom level or to delete it.
+
+Automatic zooms can be changed the same way, so you can delete the one that zoomed in on an accidental click and keep the rest. To zoom in and out several times, add a zoom for each moment: between zooms, the view goes back out to the whole recording.
+
+### How do you show clicks and highlight the cursor?
+
+With the free extension, Dotfik Studio can also draw these in the browser tabs you record. You'll find them in the editor's Pointer and keys settings, so you can switch each one on or off after recording:
+
+- Click ripples mark each click, so viewers notice it.
+
+- Pointer highlight keeps your pointer easy to find on a busy screen.
+
+- Spotlight dims everything except the area around your pointer.
+
+- Shortcut badges show the keyboard shortcuts you press, such as ⌘ K or Ctrl S. Normal typing is ignored unless you ask for it, and password fields are never read.
+
+Like automatic zooms, these need the extension and work only in browser tabs.
+
+### Can you show clicks with the tools already on your computer?
+
+Yes, and these also work outside the browser, because they're part of the system or a system tool. Here's what each maker documents (checked 22 October 2026):
+
+| Computer | Show clicks | Make the pointer easier to see |
+
+| Chromebook | In the built-in screen recorder's settings, turn on Show clicks and keys. Only key combinations with modifier keys are shown (Google). | Settings, then Accessibility: cursor highlighting, or a different cursor size or colour (Google). |
+
+| Mac | Press Shift Command 5. The Options menu lets you show the mouse pointer or clicks (Apple). | System Settings, Accessibility, Display, Pointer: change the pointer's size and its outline and fill colours (Apple). |
+
+| Windows | Microsoft's free PowerToys includes Mouse Highlighter, which displays "visual indicators when you click". Win Shift H turns it on and off (Microsoft). | Settings, Accessibility, Mouse pointer & touch: change the pointer's colour and size (Microsoft). |
+
+Make a ten-second test recording first to check they look the way you expect. The guides for Chromebook, Mac and Windows cover each system's own recorder.
+
+### Can you get automatic zooms in desktop apps?
+
+Not from a web page, but some desktop apps do it. Screen Studio is a Mac app that records your whole display, one window or an area, then "zooms in on the moments that matter" based on where you clicked. It's "made for Mac and nothing else" and costs $29 a month, or $9 a month on the yearly plan (screen.studio, checked 22 October 2026). Our Screen Studio comparison goes through the differences.
+
+On Windows, Microsoft's free ZoomIt, part of PowerToys, zooms in on part of the screen with a shortcut while you present: Ctrl 1 toggles zoom and Ctrl 4 toggles live zoom. It also has its own recorder (Microsoft, checked 22 October 2026). In Dotfik Studio, recordings of desktop apps get their zooms by hand.
+
+### Tips for zooms that help instead of distract
+
+- Match the zoom level to the content. Zoom further for small text and code, and less for a page layout where people need to see where things are.
+
+- Hold still while you type. If the view drifts while you fill in a form, turn off Follow my pointer while zoomed in.
+
+- Don't zoom on every click. Constant zooming is tiring to watch. Delete the zooms on clicks that don't matter, such as closing a pop-up.
+
+- Move the pointer slowly. A steady pointer gives the zoom time to follow and gives viewers time to read.
+
+- Start with bigger text. Sharing a browser tab or one window instead of a large monitor means less zooming later.
+
+- Check it on a phone. Watch the MP4 on a phone before you publish. If you squint, zoom further. For vertical videos, see how to turn a screen recording into a Short.
+
+### Questions people ask
+
+How do I zoom in and out on a screen recording?
+
+Add a zoom for each moment you want to zoom in; the view zooms back out when that zoom ends. In Dotfik Studio, press Add zoom here, then drag the zoom's edges on the timeline to set when it starts and ends.
+
+Can I zoom in while I'm recording?
+
+You don't need to. With the free extension, Dotfik Studio notes where you click in the browser tabs you record and turns those clicks into zooms afterwards, which you can still change. You can also add zooms by hand after recording.
+
+Is there a free screen recorder with auto zoom?
+
+Dotfik Studio is free, with no watermark and no sign-up, and its free Chrome extension adds automatic zooms for clicks inside the browser tabs you record. For desktop apps, add the zooms by hand.
+
+Does automatic zoom work in desktop apps?
+
+Not in Dotfik Studio: the extension only sees clicks inside web pages. Record the app, then add zooms with Add zoom here, which works on any recording.
+
+Can I zoom in on a video I've already recorded?
+
+Yes. On the studio's start screen, choose Edit a video file instead, open the video, add zooms by hand and download it as an MP4. Chromebook WebM files work too; see how to convert WebM to MP4.
+
+Record a tab with the extension and let the zooms follow your clicks, or add them by hand to any recording.
+
+Open the studio
+
+---
+
+Source: https://dotfikstudio.github.io/privacy/
+Updated: 2026-10-22
+
+## Your recordings stay yours
+
+Dotfik Studio records, edits and exports your video entirely inside your browser. We never receive your recordings, and we don't keep anything about you.
+
+The short version: nothing you record is uploaded, stored on a server or shared with anyone. When you're done, it's erased.
+
+### What happens to a recording
+
+- It stays in this browser tab. Your screen, camera and voice are recorded into the tab's own memory. They are never written to our servers, because there are no servers involved: this website is a set of plain files.
+
+- It's erased when you're done. Downloading your finished video erases the recording from the page straight away (you can untick that if you want to make a second version first). Pressing Delete erases it at any time, and closing the tab erases it too.
+
+- Your video is made on your computer. Zooms, layouts and the final MP4 are all produced by your own computer. The finished file goes straight to your Downloads folder.
+
+- Pictures and music you add stay local too. A background picture, your logo or a music track are read from your computer and kept in the same memory, then erased with the recording.
+
+### What we collect
+
+Nothing. There are no accounts, no cookies, no analytics, no advertising, no fonts or scripts from other companies.
+
+Like every website, the company that hosts these files may keep short technical logs of the requests it receives (for example, that a page was downloaded at a certain time). Those logs can never contain your recordings, because your recordings never leave your computer.
+
+### A lock on the door
+
+The site tells your browser, through a security rule called a Content Security Policy, that its pages may only load files from this website and may not connect to any other server. Even if something went wrong, your browser would refuse to send a recording anywhere else.
+
+### Camera, microphone and screen
+
+Your browser asks your permission before the studio can use your camera, microphone or screen, and shows that they're in use. The studio only uses them while you set up and make a recording. You can withdraw permission at any time in your browser's site settings.
+
+### The Chrome extension
+
+- The extension lets the studio know where your pointer is, where you click and which shortcuts you press in the browser tabs you record, so it can add zooms, click effects and shortcut badges.
+
+- It only runs inside your web pages while a recording is running, and only sends what it sees to the studio tab on your own computer.
+
+- It never reads what you type into password fields, and by default it ignores normal typing altogether: only shortcuts such as ⌘ C or Ctrl + C are shown.
+
+- It reads the size and position of your screens, only so that clicks land in the right place when you record a whole screen.
+
+- It remembers only two things, inside Chrome on your computer: whether a recording is running, and the studio's address, so its button can take you back to the studio.
+
+- It has no permission to connect to the internet and contains no tracking of any kind.
+
+### Settings this browser remembers
+
+To save you time, the studio remembers a few of your choices in this browser, such as your countdown, camera layout and zoom switches. These are preferences only, never recordings. You can forget them here:
+
+Forget my studio settings

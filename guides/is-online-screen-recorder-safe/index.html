@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Security-Policy" content="default-src &#39;self&#39;; script-src &#39;self&#39; &#39;wasm-unsafe-eval&#39;; style-src &#39;self&#39;; img-src &#39;self&#39; blob: data:; media-src &#39;self&#39; blob:; connect-src &#39;self&#39; blob: data:; font-src &#39;self&#39;; worker-src &#39;self&#39; blob:; object-src &#39;none&#39;; base-uri &#39;none&#39;; form-action &#39;none&#39;">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Is an Online Screen Recorder Safe? A Privacy Checklist</title>
+    <meta name="description" content="Can a website record your screen without asking? How browsers protect you, what can go wrong with online recorders, and a 2-minute check anyone can run." />
+    <meta name="theme-color" content="#0c0b1d" />
+    <meta name="referrer" content="no-referrer" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+      <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="canonical" href="https://dotfikstudio.github.io/guides/is-online-screen-recorder-safe/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="Dotfik Studio" />
+    <meta property="og:title" content="Is an Online Screen Recorder Safe? A Privacy Checklist" />
+    <meta property="og:description" content="Can a website record your screen without asking? How browsers protect you, what can go wrong with online recorders, and a 2-minute check anyone can run." />
+    <meta property="og:url" content="https://dotfikstudio.github.io/guides/is-online-screen-recorder-safe/" />
+    <meta property="og:image" content="https://dotfikstudio.github.io/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Dotfik Studio: Free screen recorder with camera, in your browser" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="article:modified_time" content="2026-10-22" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Is an Online Screen Recorder Safe? A Privacy Checklist" />
+    <meta name="twitter:description" content="Can a website record your screen without asking? How browsers protect you, what can go wrong with online recorders, and a 2-minute check anyone can run." />
+    <meta name="twitter:image" content="https://dotfikstudio.github.io/og-image.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Dotfik Studio","item":"https://dotfikstudio.github.io/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://dotfikstudio.github.io/guides/"},{"@type":"ListItem","position":3,"name":"Is an online screen recorder safe? How to check","item":"https://dotfikstudio.github.io/guides/is-online-screen-recorder-safe/"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"TechArticle","headline":"Is an online screen recorder safe? How to check","description":"Can a website record your screen without asking? How browsers protect you, what can go wrong with online recorders, and a 2-minute check anyone can run.","url":"https://dotfikstudio.github.io/guides/is-online-screen-recorder-safe/","mainEntityOfPage":"https://dotfikstudio.github.io/guides/is-online-screen-recorder-safe/","datePublished":"2026-10-22","dateModified":"2026-10-22","image":"https://dotfikstudio.github.io/og-image.png","author":{"@id":"https://dotfikstudio.github.io/#organization"},"publisher":{"@type":"Organization","@id":"https://dotfikstudio.github.io/#organization","name":"Dotfik","url":"https://dotfikstudio.github.io/","logo":"https://dotfikstudio.github.io/icon-512.png"},"about":{"@id":"https://dotfikstudio.github.io/#app"}}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can a screen recorder spy on me?","acceptedAnswer":{"@type":"Answer","text":"A website can only record what you pick in the browser's own picker, after asking. Installed apps and extensions can see more, depending on the permissions you give them; on a Mac, an app needs your permission under Screen & System Audio Recording before it can record the screen."}},{"@type":"Question","name":"Are Loom videos private?","acceptedAnswer":{"@type":"Answer","text":"Only if you set them to be. Loom's help centre says new videos are Public, so anyone with the link can watch without logging in, unless workspace admins change the default; you can limit a video to your workspace or to people you add. More in our Loom comparison."}},{"@type":"Question","name":"How do I know if my screen is being recorded?","acceptedAnswer":{"@type":"Answer","text":"When a website captures your screen, the browser shows an indicator while sharing is on. On a Mac, you can also check which apps are allowed under Screen & System Audio Recording in Privacy & Security."}},{"@type":"Question","name":"Is it safe to record my face with an online recorder?","acceptedAnswer":{"@type":"Answer","text":"It depends on where the video goes. If the recorder uploads, your face is stored on its servers. Dotfik Studio keeps your camera and screen recording on your computer, erases it from the page after download by default and always when the tab closes; see how to record your screen and face."}},{"@type":"Question","name":"Can my school see my screen on a Chromebook?","acceptedAnswer":{"@type":"Answer","text":"On a Chromebook your school manages, its administrator sets the browser's policies, including one that can let approved web apps capture screens without asking. If you're unsure, ask your school's IT team what's switched on."}}]}</script>
+    <link rel="stylesheet" crossorigin href="/assets/site-AMR92_37.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href="/" aria-label="Dotfik Studio home">
+          <img src="/favicon.svg" alt="" width="30" height="30" />
+          <span>Dotfik Studio</span>
+        </a>
+        <nav class="site-nav" aria-label="Main">
+          <a class="hide-small" href="/guides/">Guides</a>
+          <a class="hide-small" href="/faq/">FAQ</a>
+          <a class="hide-small" href="/extension/">Chrome extension</a>
+          <a class="hide-small" href="/privacy/">Privacy</a>
+          <a class="button primary" href="/studio/">Open the studio</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="container">
+      <ol class="breadcrumbs"><li><a href="/">Dotfik Studio</a></li><li><a href="/guides/">Guides</a></li><li>Online recorder safety</li></ol>
+      <article class="prose">
+        <h1>Is an online screen recorder safe? How to check</h1>
+        <p class="article-meta">Updated 22 October 2026 · 8-minute read</p>
+        <p>
+          Before you record your screen in a browser, it's fair to ask what the website can see and where your video
+          ends up. Here's how browsers protect you, where the real risks are, and a quick check you can run on any
+          recorder, ours included.
+        </p>
+
+        <div class="quick-answer">
+          <h2>The short answer</h2>
+          <p>
+            Mostly, yes. On your own computer, a website can't record your screen without asking you every time, and you
+            choose exactly which tab, window or screen it gets. The bigger risk is what happens next: many online
+            recorders upload your video to their servers. Check where the video goes, watch the network activity while
+            you record, and remove extensions you don't trust.
+          </p>
+        </div>
+
+        <h2>Can a website record my screen without permission?</h2>
+        <p>
+          Not on a computer you control. Websites record the screen through a browser feature that, in the words of
+          MDN's developer guide, "prompts the user to select and grant permission to capture the contents of a display or
+          portion thereof (such as a window)". Browsers must follow strict rules for it
+          (<a href="https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getDisplayMedia" rel="noopener">MDN: getDisplayMedia()</a>,
+          checked 22 October 2026):
+        </p>
+        <ul>
+          <li>
+            <strong>It asks every time.</strong> "The go-ahead permission to use getDisplayMedia() cannot be persisted for
+            reuse. The user must be prompted for permission every time."
+          </li>
+          <li>
+            <strong>You have to act first.</strong> "The user has to interact with the page or a UI element in order for
+            this feature to work", so a page can't start capturing the moment it loads.
+          </li>
+          <li>
+            <strong>You choose what to share.</strong> The browser's own picker offers tabs, windows and screens, and MDN
+            notes that "web applications can't force the user to share specific content" by narrowing that list.
+          </li>
+          <li>
+            <strong>You can see it's on.</strong> "While display capture is in effect, the machine which is sharing
+            screen contents will display some form of indicator so the user is aware that sharing is taking place"
+            (<a href="https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture" rel="noopener">MDN: Using the Screen Capture API</a>).
+          </li>
+        </ul>
+        <p>
+          There are two exceptions worth knowing. On a <strong>school or work Chromebook</strong>, a Chrome policy lets
+          the administrator allow specific web apps to "capture multiple surfaces at once without additional user
+          permission"
+          (<a href="https://chromeenterprise.google/policies/#MultiScreenCaptureAllowedForUrls" rel="noopener">Chrome Enterprise policy</a>,
+          checked 22 October 2026). And some websites use "session recording" tools that replay what you did on their
+          own pages. Microsoft's documentation for one of them, Clarity, says these "aren't actual recordings of the user
+          experience, but rather a step-by-step visual reconstructions" built from the page and your scrolls, clicks and
+          taps
+          (<a href="https://learn.microsoft.com/en-us/clarity/session-recordings/recordings-overview" rel="noopener">Microsoft Learn</a>,
+          checked 22 October 2026). They show what you did on that site, not a video of your screen.
+        </p>
+
+        <h2>How do I control camera, microphone and screen access?</h2>
+        <p>
+          When a site asks for your camera or microphone, Chrome offers <strong>Allow while visiting the site</strong>,
+          <strong>Allow this time</strong> or <strong>Never allow</strong>. To change your mind later:
+        </p>
+        <ol>
+          <li>
+            Select <strong>View site information</strong>, to the left of the web address, then <strong>Site
+            settings</strong>, and change the permission
+            (<a href="https://support.google.com/chrome/answer/114662" rel="noopener">Chrome Help</a>).
+          </li>
+          <li>
+            Or open Chrome's menu and go to <strong>Settings</strong> &gt; <strong>Privacy and security</strong> &gt;
+            <strong>Site settings</strong>, choose <strong>Camera</strong> or <strong>Microphone</strong>, and remove
+            sites you no longer use
+            (<a href="https://support.google.com/chrome/answer/2693767" rel="noopener">Chrome Help</a>, checked
+            22 October 2026).
+          </li>
+        </ol>
+        <p>
+          Screen sharing has no saved permission to remove, because the browser asks every time. Your computer has its
+          own switches too. On a Chromebook, <strong>Settings</strong> &gt; <strong>Privacy and security</strong> &gt;
+          <strong>Privacy controls</strong> has <strong>Camera access</strong> and <strong>Microphone access</strong>;
+          turning one off "blocks access on all levels and services"
+          (<a href="https://support.google.com/chromebook/answer/13128177" rel="noopener">Google</a>). On a Mac,
+          <strong>System Settings</strong> &gt; <strong>Privacy &amp; Security</strong> &gt; <strong>Screen &amp;
+          System Audio Recording</strong> lists the apps allowed to record your screen, and you can turn each one off
+          (<a href="https://support.apple.com/guide/mac-help/control-access-screen-system-audio-recording-mchld6aa7d23/mac" rel="noopener">Apple</a>,
+          checked 22 October 2026).
+        </p>
+
+        <h2>What can go wrong with an online screen recorder?</h2>
+        <ul>
+          <li>
+            <strong>Your video goes to someone else's servers.</strong> Recorders with share links store your video
+            online, and their settings decide who can watch. Loom, for example, makes new videos Public, viewable with
+            "no login or Loom account" required, unless workspace admins change the default
+            (<a href="https://support.atlassian.com/loom/docs/use-looms-privacy-settings/" rel="noopener">Loom help</a>,
+            checked 22 October 2026). Apple's warning applies to any recorder you allow: "any information they collect is
+            governed by their terms and privacy policies".
+          </li>
+          <li>
+            <strong>Your account becomes a record.</strong> Signing up gives a company your email address and a library
+            of your recordings. Delete the ones you no longer need.
+          </li>
+          <li>
+            <strong>Extensions can see a lot.</strong> An extension with access to "your data on all the websites you
+            visit" can "read, request or modify data from every page you visit (bank account, Facebook)". As Google puts
+            it, "The warning doesn't mean the app is dangerous, just that it can be"
+            (<a href="https://support.google.com/chrome_webstore/answer/186213" rel="noopener">Chrome Web Store Help</a>,
+            checked 22 October 2026).
+          </li>
+          <li>
+            <strong>You show more than you meant to.</strong> MDN calls this the largest potential issue: "users
+            inadvertently sharing content they did not wish to share", such as a background window or a password manager.
+            Sharing one tab instead of the whole screen is "better for privacy", in Chrome's words
+            (<a href="https://developer.chrome.com/blog/media-picker-reorder" rel="noopener">Chrome for Developers</a>).
+          </li>
+        </ul>
+
+        <h2>A 2-minute safety check for any screen recorder</h2>
+        <ol>
+          <li>
+            <strong>Find out where the video goes.</strong> Look on the recorder's privacy page for words like "upload",
+            "cloud" or "share link". If it makes share links, your video is stored online.
+          </li>
+          <li><strong>Share a tab or a window, not your whole screen</strong>, and close anything private first.</li>
+          <li>
+            <strong>Watch the network.</strong> Press <kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>J</kbd> (<kbd>Command</kbd>
+            <kbd>Option</kbd> <kbd>J</kbd> on a Mac) to open Chrome DevTools, then click the <strong>Network</strong> tab.
+            "So long as you've got DevTools open, it will record network activity"
+            (<a href="https://developer.chrome.com/docs/devtools/network" rel="noopener">Chrome DevTools docs</a>,
+            checked 22 October 2026). Tick <strong>Preserve log</strong> so the list survives a page reload, then record
+            for 30 seconds. A recorder that uploads as you go will keep adding requests while you record. It's a rough
+            check, not proof, and school or work devices may have DevTools
+            <a href="https://chromeenterprise.google/policies/#DeveloperToolsAvailability" rel="noopener">turned off by policy</a>.
+          </li>
+          <li>
+            <strong>Check your extensions.</strong> Open Chrome's menu, then <strong>Extensions</strong> &gt;
+            <strong>Manage extensions</strong>. Remove the ones you don't use. For the rest, set site access to
+            <strong>When you select the extension</strong> where you can
+            (<a href="https://support.google.com/chrome_webstore/answer/2664769" rel="noopener">Chrome Web Store Help</a>).
+          </li>
+          <li>
+            <strong>Tidy up afterwards.</strong> Remove camera and microphone access you no longer need, and blur
+            anything private in the video before you share it.
+          </li>
+        </ol>
+
+        <h2>How does Dotfik Studio handle your recording?</h2>
+        <ul>
+          <li>Recording, editing and the MP4 export all happen in your browser, on your computer. Nothing is uploaded.</li>
+          <li>
+            The recording lives in the tab's memory. It's erased after you download it (the
+            <strong>Erase the recording after downloading</strong> switch is on by default; untick it to make another
+            version first), when you press <strong>Delete</strong>, and always when you close the tab.
+          </li>
+          <li>
+            There are no accounts, no analytics and no tracking, and the site's security policy (CSP) stops the page from
+            sending data to any other server.
+          </li>
+          <li>Captions made from your voice come from your browser's on-device speech recognition, so your voice isn't sent to an online service.</li>
+          <li>
+            The optional <a href="/extension/">Chrome extension</a> runs only while a recording runs, has no internet
+            access, and never reads password fields.
+          </li>
+        </ul>
+        <p>
+          You don't have to take our word for it: run the network check while you record in the
+          <a href="/studio/">studio</a>. You may see the page load its own files from this website, but not your
+          recording going anywhere. Once you've downloaded the MP4, share it with the same care as any other video. The
+          <a href="/privacy/">privacy page</a> has the details.
+        </p>
+
+        <h2>Can websites detect screen recording?</h2>
+        <p>
+          When one page or app captures another through the browser, the captured page isn't told. A W3C draft on
+          screen capture describes this default plainly: the captured page "does not know that it is being captured; let
+          alone by whom"
+          (<a href="https://w3c.github.io/mediacapture-handle/identity/" rel="noopener">W3C Capture Handle draft</a>,
+          checked 22 October 2026).
+        </p>
+        <p>
+          Phone apps are different. From Android 15, apps can "detect that they are being recorded", for example to warn
+          you during a sensitive step
+          (<a href="https://developer.android.com/about/versions/15/features" rel="noopener">Android Developers</a>), and
+          iPhone and iPad apps can check "whether a scene is currently being mirrored or recorded"
+          (<a href="https://developer.apple.com/documentation/uikit/uitraitcollection/scenecapturestate" rel="noopener">Apple</a>).
+          Protected films can also come out black: on Apple devices, the system leaves video protected with FairPlay
+          Streaming out of screen recordings
+          (<a href="https://developer.apple.com/documentation/uikit/uiscreen/iscaptured" rel="noopener">Apple</a>,
+          checked 22 October 2026).
+        </p>
+
+        <section class="faq" aria-labelledby="faq-title">
+          <h2 id="faq-title">Questions people ask</h2>
+          <details>
+            <summary>Can a screen recorder spy on me?</summary>
+            <p>
+              A website can only record what you pick in the browser's own picker, after asking. Installed apps and
+              extensions can see more, depending on the permissions you give them; on a Mac, an app needs your
+              permission under Screen &amp; System Audio Recording before it can record the screen.
+            </p>
+          </details>
+          <details>
+            <summary>Are Loom videos private?</summary>
+            <p>
+              Only if you set them to be. Loom's help centre says new videos are Public, so anyone with the link can watch
+              without logging in, unless workspace admins change the default; you can limit a video to your workspace or
+              to people you add. More in our <a href="/alternatives/loom/">Loom comparison</a>.
+            </p>
+          </details>
+          <details>
+            <summary>How do I know if my screen is being recorded?</summary>
+            <p>
+              When a website captures your screen, the browser shows an indicator while sharing is on. On a Mac, you can
+              also check which apps are allowed under Screen &amp; System Audio Recording in Privacy &amp; Security.
+            </p>
+          </details>
+          <details>
+            <summary>Is it safe to record my face with an online recorder?</summary>
+            <p>
+              It depends on where the video goes. If the recorder uploads, your face is stored on its servers. Dotfik Studio
+              keeps your camera and screen recording on your computer, erases it from the page after download by default
+              and always when the tab closes; see <a href="/guides/record-screen-and-face/">how to record your screen and
+              face</a>.
+            </p>
+          </details>
+          <details>
+            <summary>Can my school see my screen on a Chromebook?</summary>
+            <p>
+              On a Chromebook your school manages, its administrator sets the browser's policies, including one that can
+              let approved web apps capture screens without asking. If you're unsure, ask your school's IT team what's
+              switched on.
+            </p>
+          </details>
+        </section>
+
+        <div class="cta-box">
+          <p>Try a screen recorder that keeps everything on your computer, then check it yourself.</p>
+          <a class="button secondary" href="/studio/">Open the studio</a>
+        </div>
+      </article>
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div class="footer-about">
+          <a class="brand" href="/" aria-label="Dotfik Studio home">
+            <img src="/favicon.svg" alt="" width="26" height="26" />
+            <span>Dotfik Studio</span>
+          </a>
+          <p>Free screen recorder with camera, in your browser. Free, no sign-up, no watermark, and nothing you record leaves your computer.</p>
+          
+        </div>
+        <nav aria-label="Product">
+          <h2>Product</h2>
+          <a href="/studio/">Open the studio</a>
+          <a href="/extension/">Chrome extension</a>
+          <a href="/faq/">Questions and answers</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/about/">About</a>
+        </nav>
+        <nav aria-label="Guides">
+          <h2>Guides</h2>
+          <a href="/guides/record-screen-and-face/">Record your screen and face</a>
+          <a href="/guides/screen-record-on-chromebook/">Screen record on a Chromebook</a>
+          <a href="/guides/screen-record-on-windows/">Screen record on Windows</a>
+          <a href="/guides/screen-record-on-mac/">Screen record on a Mac</a>
+          <a href="/guides/zoom-in-on-screen-recording/">Zoom in on a recording</a>
+          <a href="/guides/screen-recording-to-shorts/">Shorts, Reels and TikTok</a>
+          <a href="/guides/add-captions-to-screen-recording/">Add captions</a>
+          <a href="/guides/">All guides</a>
+        </nav>
+        <nav aria-label="Compare">
+          <h2>Compare</h2>
+          <a href="/alternatives/screen-studio/">Screen Studio alternative</a>
+          <a href="/alternatives/loom/">Loom alternative</a>
+          <a href="/alternatives/screencastify/">Screencastify alternative</a>
+          <a href="/alternatives/">All comparisons</a>
+        </nav>
+      </div>
+      <div class="container footer-base">
+        <span>© 2026 Dotfik · Made for creators who teach</span>
+      </div>
+    </footer>
+  </body>
+</html>

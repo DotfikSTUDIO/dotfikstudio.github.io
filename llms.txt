@@ -1,0 +1,57 @@
+# Dotfik Studio
+
+> A free screen recorder and video editor that runs entirely in your browser. Record your screen, camera and voice; get automatic zooms, click effects and captions; download an MP4 for YouTube, Shorts, Reels or TikTok. No sign-up, no watermark, and nothing is uploaded.
+
+Dotfik Studio is a website, not a program to install: it records and edits video inside the browser tab, at https://dotfikstudio.github.io/studio/. It is made by Dotfik and has been online since 19 October 2026.
+
+Key facts:
+
+- Price: free. No account, no sign-up and no watermark.
+- Recording length: no limit is set. Recordings are held in the computer's memory while you edit, so very long takes (an hour or more) need plenty of free memory.
+- Where it works: Google Chrome, Microsoft Edge, Brave and other Chromium browsers, on Windows, macOS, ChromeOS (Chromebooks) and Linux computers. Safari, Firefox and phones are not supported yet.
+- Privacy: recording, editing and exporting all happen on the visitor's own computer. Recordings are never uploaded; the site's security policy stops it from sending data to any other server. A recording is erased from the page after it is downloaded (on by default; it can be kept to make a second version), when the visitor presses Delete, or when the tab closes.
+- What it records: a whole screen, one window or one browser tab, plus webcam, microphone and computer sound.
+- Editing: trim, cut, speed up dull parts, remove long silences automatically, automatic zoom where you click with smooth cursor following (needs the free Chrome extension), zooms added by hand, click ripples, cursor highlight, keystroke badges, blur boxes for private details, callouts, intro and outro cards, a logo, background music that dips under the voice, and voice levelling to YouTube's loudness (−14 LUFS).
+- Captions: made on the computer by the browser's on-device speech recognition (in recent Chrome versions), or typed by hand; burned into the video or saved as an .srt file for YouTube.
+- Export: MP4 video (H.264 with AAC sound) in 16:9 (YouTube), 9:16 (YouTube Shorts, Instagram Reels, TikTok), 1:1, 4:5, 3:4 and 4:3, at 720p, 1080p, 1440p or 4K, at 24, 30 or 60 frames per second.
+- Camera layouts: a round or square bubble anywhere on the video, a split screen with the camera on any side, camera only, or screen only.
+- Chrome extension: optional and free; it tells the studio where the pointer is and where you click inside the tabs being recorded. It works only while a recording runs and has no internet access.
+- Existing videos: a video file recorded elsewhere (for example a Chromebook WebM or a Mac MOV recording) can be opened, edited and downloaded as MP4. Its sound counts as computer sound, so captions must be typed and voice levelling and pause cutting aren't offered for it.
+- Limits: there are no share links or cloud library (you download an MP4 and share it yourself), no team features, and no mobile version. Automatic zoom, click effects and keystroke badges only work inside the Chrome tabs being recorded, because the extension can't see desktop apps; zooms can be added by hand to any recording.
+
+## Start here
+
+- [Record your screen and camera. Get a polished video.](https://dotfikstudio.github.io/): Record your screen, webcam and voice free in your browser. Auto zoom, captions and MP4 export for YouTube, Shorts and Reels. No sign-up, no watermark, no upload.
+- [The Dotfik Studio extension](https://dotfikstudio.github.io/extension/): The free Dotfik Studio extension for Chrome and Edge adds automatic zooms, click effects and shortcut badges to your recordings. It has no internet access.
+- [Questions and answers](https://dotfikstudio.github.io/faq/): Answers about Dotfik Studio: price, watermarks, time limits, computer sound, captions, Chromebooks and Macs, and what happens to your recordings.
+- [Dotfik Studio: free screen recorder](https://dotfikstudio.github.io/studio/): Record your screen, webcam and voice for free in Chrome or Edge, add zooms and captions, and download an MP4. No sign-up, no watermark, nothing uploaded.
+
+## Guides
+
+- [Screen recording guides](https://dotfikstudio.github.io/guides/): Free step-by-step guides to recording your screen with sound and your face on a Mac, Windows PC or Chromebook, then zooming, captioning and sharing it.
+- [How to add captions to a screen recording](https://dotfikstudio.github.io/guides/add-captions-to-screen-recording/): Add captions to a screen recording for free: make them from your voice on your own computer, burn them into the video, or save an .srt file for YouTube.
+- [How to convert WebM to MP4 for free, without uploading](https://dotfikstudio.github.io/guides/convert-webm-to-mp4/): Convert WebM to MP4 for free without uploading your video, on a Chromebook, Windows or Mac. Trim or caption it on the way, or use VLC or ffmpeg instead.
+- [Is an online screen recorder safe? How to check](https://dotfikstudio.github.io/guides/is-online-screen-recorder-safe/): Can a website record your screen without asking? How browsers protect you, what can go wrong with online recorders, and a 2-minute check anyone can run.
+- [How to record a presentation with your face](https://dotfikstudio.github.io/guides/record-presentation-with-face/): Record a presentation with your face in Google Slides, PowerPoint or Canva: the free way in your browser, each app's own recorder, and tips for a clear video.
+- [How to record your screen and your face at the same time](https://dotfikstudio.github.io/guides/record-screen-and-face/): Record your screen and your face (webcam) together for free, with nothing to install: the steps, the camera layouts, and the built-in options on each computer.
+- [How to screen record on a Chromebook (with sound and your face)](https://dotfikstudio.github.io/guides/screen-record-on-chromebook/): Screen record on a Chromebook with sound and your face: the built-in recorder step by step, fixes for no sound, and a free way to edit and save as MP4.
+- [How to screen record on a Mac with internal audio](https://dotfikstudio.github.io/guides/screen-record-on-mac/): Screen record on a Mac with Shift-Command-5, then capture the Mac's own sound without BlackHole using Chrome: steps, permissions and fixes for no sound.
+- [How to screen record on Windows 11 and 10 with audio](https://dotfikstudio.github.io/guides/screen-record-on-windows/): Screen record on Windows 11 or 10 with sound: Snipping Tool, Game Bar, Clipchamp and a free browser recorder compared, plus fixes when there's no audio.
+- [How to turn a screen recording into a YouTube Short](https://dotfikstudio.github.io/guides/screen-recording-to-shorts/): Turn a screen recording into a 9:16 YouTube Short, Reel or TikTok for free: the right size, a camera layout that fits, readable text and length limits.
+- [How to zoom in on a screen recording (automatically or by hand)](https://dotfikstudio.github.io/guides/zoom-in-on-screen-recording/): Zoom in on a screen recording automatically where you click, or add zooms by hand, then show your clicks and highlight the cursor. Free, in your browser.
+
+## Comparisons
+
+- [Free screen recorders compared: honest pros and cons](https://dotfikstudio.github.io/alternatives/): An honest comparison of free screen recorders: which add a watermark, limit your minutes or videos, or upload your video, and who each one suits.
+- [A free Loom alternative without the 5-minute limit](https://dotfikstudio.github.io/alternatives/loom/): Loom's free plan stops at 25 videos of 5 minutes. An honest comparison with a free recorder that gives you an MP4 kept on your computer, and when Loom wins.
+- [A free Screen Studio alternative for Windows, Chromebook and Linux](https://dotfikstudio.github.io/alternatives/screen-studio/): Screen Studio is a paid Mac-only app. An honest comparison with a free recorder for Windows, Chromebook, Linux and Mac, and who should pick which.
+- [A free Screencastify alternative with no watermark](https://dotfikstudio.github.io/alternatives/screencastify/): Screencastify is now Castify. Compare its free plan (10 videos, 30 minutes, watermark) with a free recorder that works on Chromebooks and uploads nothing.
+
+## About
+
+- [About Dotfik Studio](https://dotfikstudio.github.io/about/): What Dotfik Studio is, how it records and edits video entirely on your own computer, and why it is free, without sign-up, watermark or uploads.
+- [Your recordings stay yours](https://dotfikstudio.github.io/privacy/): Your recordings never leave your computer. No uploads, no account, no tracking, and recordings are erased from the page when you're done.
+
+## Optional
+
+- [Everything on this site as plain text](https://dotfikstudio.github.io/llms-full.txt)

@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Security-Policy" content="default-src &#39;self&#39;; script-src &#39;self&#39; &#39;wasm-unsafe-eval&#39;; style-src &#39;self&#39;; img-src &#39;self&#39; blob: data:; media-src &#39;self&#39; blob:; connect-src &#39;self&#39; blob: data:; font-src &#39;self&#39;; worker-src &#39;self&#39; blob:; object-src &#39;none&#39;; base-uri &#39;none&#39;; form-action &#39;none&#39;">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Free Auto-Zoom Extension for Screen Recording | Dotfik Studio</title>
+    <meta name="description" content="The free Dotfik Studio extension for Chrome and Edge adds automatic zooms, click effects and shortcut badges to your recordings. It has no internet access." />
+    <meta name="theme-color" content="#0c0b1d" />
+    <meta name="referrer" content="no-referrer" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+      <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="canonical" href="https://dotfikstudio.github.io/extension/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Dotfik Studio" />
+    <meta property="og:title" content="Free Auto-Zoom Extension for Screen Recording | Dotfik Studio" />
+    <meta property="og:description" content="The free Dotfik Studio extension for Chrome and Edge adds automatic zooms, click effects and shortcut badges to your recordings. It has no internet access." />
+    <meta property="og:url" content="https://dotfikstudio.github.io/extension/" />
+    <meta property="og:image" content="https://dotfikstudio.github.io/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Dotfik Studio: Free screen recorder with camera, in your browser" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Free Auto-Zoom Extension for Screen Recording | Dotfik Studio" />
+    <meta name="twitter:description" content="The free Dotfik Studio extension for Chrome and Edge adds automatic zooms, click effects and shortcut badges to your recordings. It has no internet access." />
+    <meta name="twitter:image" content="https://dotfikstudio.github.io/og-image.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Dotfik Studio","item":"https://dotfikstudio.github.io/"},{"@type":"ListItem","position":2,"name":"The Dotfik Studio extension","item":"https://dotfikstudio.github.io/extension/"}]}</script>
+    <script type="module" crossorigin src="/assets/extension-BPqOtvqp.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/modulepreload-polyfill-B5Qt9EMX.js">
+    <link rel="stylesheet" crossorigin href="/assets/site-AMR92_37.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href="/" aria-label="Dotfik Studio home">
+          <img src="/favicon.svg" alt="" width="30" height="30" />
+          <span>Dotfik Studio</span>
+        </a>
+        <nav class="site-nav" aria-label="Main">
+          <a class="hide-small" href="/guides/">Guides</a>
+          <a class="hide-small" href="/faq/">FAQ</a>
+          <a class="hide-small" href="/extension/" aria-current="page">Chrome extension</a>
+          <a class="hide-small" href="/privacy/">Privacy</a>
+          <a class="button primary" href="/studio/">Open the studio</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="container">
+      <div class="page-head">
+        <h1>The Dotfik Studio extension</h1>
+        <p>
+          Free for Chrome, Edge, Brave and other Chromium browsers. It lets the studio see your pointer, clicks and
+          shortcuts in the tabs you record, so your video zooms and highlights by itself.
+        </p>
+        <div class="download-row">
+          <a class="button primary large" id="download-extension" href="/downloads/dotfik-studio-extension.zip" download>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v11M7 10.5l5 5 5-5M5 20h14" /></svg>
+            Download the extension
+          </a>
+          <span class="small-print" id="extension-version">Version 0.1.0 · 35 KB</span>
+        </div>
+        <p class="small-print">Coming soon to the Chrome Web Store. Until then, installing it takes about a minute:</p>
+      </div>
+
+      <div class="prose">
+        <h2>Install it</h2>
+        <ol class="install">
+          <li><span><strong>Download</strong> the extension with the button above, then <strong>unzip</strong> it (double-click the file). You'll get a folder called <code>dotfik-studio-extension</code>.</span></li>
+          <li>
+            <span>
+              Open your browser's extensions page: type <code>chrome://extensions</code> in the address bar
+              (<code>edge://extensions</code> in Edge, <code>brave://extensions</code> in Brave).
+              <button class="button secondary" type="button" id="copy-address">Copy the address</button>
+            </span>
+          </li>
+          <li><span>Turn on <strong>Developer mode</strong> with the switch in the corner of that page.</span></li>
+          <li><span>Click <strong>Load unpacked</strong> and choose the <code>dotfik-studio-extension</code> folder.</span></li>
+          <li><span>Click the puzzle-piece icon next to the address bar and <strong>pin</strong> Dotfik Studio, so it's one click away.</span></li>
+        </ol>
+        <p class="status-message" id="copy-status" role="status"></p>
+
+        <h2>What it adds</h2>
+        <ul>
+          <li><strong>Automatic zooms</strong> where you click, gliding along with your pointer (or holding still, if you prefer).</li>
+          <li><strong>Click effects and a pointer highlight</strong>, so viewers never lose track of what you're doing.</li>
+          <li><strong>Shortcut badges</strong> such as <kbd>⌘ K</kbd> or <kbd>Ctrl + S</kbd>, shown on screen as you press them.</li>
+          <li><strong>Keyboard shortcuts</strong>: <kbd>Alt + Shift + R</kbd> stops the recording and <kbd>Alt + Shift + P</kbd> pauses or resumes it, from any tab (on a Mac: <kbd>⌥ ⇧ R</kbd> and <kbd>⌥ ⇧ P</kbd>).</li>
+        </ul>
+
+        <div class="callout">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4.5-3 7.7-7 9-4-1.3-7-4.5-7-9V6z" /><path d="M8.5 12l2.5 2.5 4.5-5" /></svg>
+          <p>
+            <strong>Private by design.</strong> The extension only runs inside your web pages while you're recording,
+            never reads password fields, ignores normal typing unless you ask for it, and can't connect to the
+            internet. What it sees goes to the studio tab on your computer and nowhere else.
+            <a href="/privacy/">More about privacy</a>.
+          </p>
+        </div>
+
+        <h2>Why does it ask to read websites?</h2>
+        <p>
+          To notice your clicks in the tabs you record, the extension needs to run in those pages. Chrome describes
+          that as "read and change data on websites". It asks only when you switch on click tracking, and even then
+          its script is only placed in your pages while a recording runs. You can switch access off at any time on
+          the extension's details page.
+        </p>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div class="footer-about">
+          <a class="brand" href="/" aria-label="Dotfik Studio home">
+            <img src="/favicon.svg" alt="" width="26" height="26" />
+            <span>Dotfik Studio</span>
+          </a>
+          <p>Free screen recorder with camera, in your browser. Free, no sign-up, no watermark, and nothing you record leaves your computer.</p>
+          
+        </div>
+        <nav aria-label="Product">
+          <h2>Product</h2>
+          <a href="/studio/">Open the studio</a>
+          <a href="/extension/">Chrome extension</a>
+          <a href="/faq/">Questions and answers</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/about/">About</a>
+        </nav>
+        <nav aria-label="Guides">
+          <h2>Guides</h2>
+          <a href="/guides/record-screen-and-face/">Record your screen and face</a>
+          <a href="/guides/screen-record-on-chromebook/">Screen record on a Chromebook</a>
+          <a href="/guides/screen-record-on-windows/">Screen record on Windows</a>
+          <a href="/guides/screen-record-on-mac/">Screen record on a Mac</a>
+          <a href="/guides/zoom-in-on-screen-recording/">Zoom in on a recording</a>
+          <a href="/guides/screen-recording-to-shorts/">Shorts, Reels and TikTok</a>
+          <a href="/guides/add-captions-to-screen-recording/">Add captions</a>
+          <a href="/guides/">All guides</a>
+        </nav>
+        <nav aria-label="Compare">
+          <h2>Compare</h2>
+          <a href="/alternatives/screen-studio/">Screen Studio alternative</a>
+          <a href="/alternatives/loom/">Loom alternative</a>
+          <a href="/alternatives/screencastify/">Screencastify alternative</a>
+          <a href="/alternatives/">All comparisons</a>
+        </nav>
+      </div>
+      <div class="container footer-base">
+        <span>© 2026 Dotfik · Made for creators who teach</span>
+      </div>
+    </footer>
+  </body>
+</html>

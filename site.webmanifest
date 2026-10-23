@@ -1,0 +1,27 @@
+{
+  "name": "Dotfik Studio",
+  "short_name": "Dotfik",
+  "description": "A free screen recorder and video editor that runs entirely in your browser. Record your screen, camera and voice; get automatic zooms, click effects and captions; download an MP4 for YouTube, Shorts, Reels or TikTok. No sign-up, no watermark, and nothing is uploaded.",
+  "start_url": "/studio/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0c0b1d",
+  "theme_color": "#0c0b1d",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
